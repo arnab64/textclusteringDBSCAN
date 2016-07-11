@@ -33,9 +33,12 @@ After the removal of punctuations and stopwords, the weights of all terms in eac
 python 2_alltfidf.py
 ```
 
-After the weights of all the words in each document is computed, we then find the Euclidean distance between each of the documents, using their respective weights.
+After the weights of all the words in each document is computed, we then find the Euclidean distance between each of the documents, using their respective weights. The distance between all the documents are stored in the file *scores.txt*. 
 ```
 python 3_distance.py
 ```
 
-
+After the distance between files are found, we perform the clustering using DBSCAN, which is performed by the code *4_cluster.py*. After which the results of the clustering is evaluated, by comparing with the real known clusters. The clustering performance is evaluated using **Adjusted Rand Index**, and it is d`one by the code *5_result_evaluation.py*. These two tasks are done by the code *6_main_module.py*. This code also finds out which is the best threshold for performing the clustering, as DBSCAN takes the *threshold* as input from the user.
+```
+python 6_main_module.py
+```
