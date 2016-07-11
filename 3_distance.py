@@ -120,23 +120,26 @@ def matchscore(str1,str2):
 
 	return totx
 
-oscores = open('scores.txt','w')
-filex = allfiles('dest')
-lenn = len(filex)
-for g in range(lenn):
-	file1 = 'dest/' + filex[g]
-	for h in range(lenn):
-		file2 = 'dest/' + filex[h]
-		if file1!=file2:
-			scr = matchscore(file1,file2)
-			fx1 = find_fileid(file1)
-			fx2 = find_fileid(file2)
-			oscores.write(fx1)
-			oscores.write("	")
-			oscores.write(fx2)
-			oscores.write("	")
-			oscores.write(str(scr))
-			print fx1,fx2,scr
-			oscores.write("\n")	
+def main():
+	oscores = open('scores.txt','w')
+	filex = allfiles('dest')
+	lenn = len(filex)
+	for g in range(lenn):
+		file1 = 'dest/' + filex[g]
+		for h in range(lenn):
+			file2 = 'dest/' + filex[h]
+			if file1!=file2:
+				scr = matchscore(file1,file2)
+				fx1 = find_fileid(file1)
+				fx2 = find_fileid(file2)
+				oscores.write(fx1)
+				oscores.write("	")
+				oscores.write(fx2)
+				oscores.write("	")
+				oscores.write(str(scr))
+				print fx1,fx2,scr
+				oscores.write("\n")	
 
-print "the distance between the two files is i.e. score =", scr
+if __name__ == '__main__':
+	main()
+#print "the distance between the two files is i.e. score =", scr
