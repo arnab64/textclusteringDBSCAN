@@ -74,3 +74,9 @@ def main_prog(noff,near_threshold):
 	#ofile1.flush()
 	ofile1.close()
 	return finalx
+
+def main():
+	main_prog()
+	
+if __name__ == '__main__':
+	main()
