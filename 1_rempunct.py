@@ -45,5 +45,9 @@ def allremove():
 		out1 = 'stops_removed/'+array1[k];			# foldername of the output folder, create the folder first, if does not exist
 		rem_stop(in1,out1)
 
-allremove()
-#rem_stop('walmart.txt','polished.txt')
+def main():
+	allremove()
+	#rem_stop('walmart.txt','polished.txt')
+	
+if __name__ == '__main__':
+	main()
