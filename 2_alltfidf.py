@@ -90,5 +90,8 @@ def allconvert():
 		out1 = 'dest/'+array1[k];
 		cluster_to_characteristic(in1,out1)
 
-
-allconvert()
+def main():
+	allconvert()
+	
+if __name__ == '__main__':
+	main()
