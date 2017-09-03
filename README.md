@@ -1,5 +1,7 @@
 # Text Clustering using Density Based Spatial Clustering (DBSCAN)
 
+##This code is under maintenance, will be available in a week: 03-Sept-2017
+
 Introduction
 -------------
 In this project, I performed document clustering using the DBSCAN clustering algorithm. I clustered documents based on topic similarity. The basic idea is simple, we first find the scores of each word in each document using *TFIDF* and then we compute the distance between two documents using a distance measure to find the difference between the scores of words of the documents.
