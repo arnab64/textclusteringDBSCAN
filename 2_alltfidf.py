@@ -1,14 +1,6 @@
 import math
 import glob, os, sys
 
-'''def allfiles():						#returns the name of all files inside the source folder. 		
-	owd = os.getcwd()
-	os.chdir("sour/")				#this is the name of the folder from which the file names are returned.
-	arr = []						#empty array, the names of files are appended to this array, and returned.
-	for file in glob.glob("*.txt"):
-		arr.append(file)
-	os.chdir(owd)
-	return arr '''
 class alltfidf:
 	def __init__(self):
 		print("Initialized!")
