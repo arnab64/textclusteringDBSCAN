@@ -1,6 +1,11 @@
 # Text Clustering using Density Based Spatial Clustering (DBSCAN)
 
-##This code is under maintenance, will be available in a week: 03-Sept-2017
+The following functionalities are being added to this code (estimated completion by 10/01/2020):
+- Cluster files into a new folder structure with cluster labelled folders
+- Add support for performing clustering on external datasets
+- Add TFIDF support for large datasets
+- Add visualization for clusters in plotly
+
 
 Introduction
 -------------
