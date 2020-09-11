@@ -1,0 +1,73 @@
+digital camera digicam camera encodes digital images videos digitally stores later reproduction cameras sold today digital digital cameras incorporated many devices ranging pdas mobile phones called camera phones vehicles 
+
+digital film cameras share optical system typically using lens variable diaphragm focus light onto image pickup device diaphragm shutter admit correct amount light imager film image pickup device electronic rather chemical however unlike film cameras digital cameras display images screen immediately recorded store delete images memory many digital cameras also record moving videos sound digital cameras crop stitch pictures perform elementary image editingthe history digital camera began eugene f lally jet propulsion laboratory wasn't coming ways create artificial gravity thinking use mosaic photosensor capture digital images idea take pictures planets stars travelling space give information astronauts' position unfortunately texas instrument employee willis adcock's filmless camera us patent technology yet catch concept 
+
+steven sasson engineer eastman kodak invented built first electronic camera using chargecoupled device image sensor earlier ones used camera tube later ones digitized signal early uses mainly military scientific followed medical news applications mid late digital cameras became common among consumers mids digital cameras largely replaced film cameras higherend cell phones integrated digital camera beginning almost smartphones integrated digital camerathe two major types digital image sensor ccd cmos ccd sensor one amplifier pixels pixel cmos activepixel sensor amplifier compared ccds cmos sensors use less power cameras small sensor use backsideilluminated cmos bsicmos sensor overall final image quality dependent image processing capability camera sensor typethe resolution digital camera often limited image sensor turns light discrete signals brighter image given point sensor larger value read pixel depending physical structure sensor color filter array may used requires demosaicing recreate fullcolor image number pixels sensor determines camera's pixel count typical sensor pixel count product number rows number columns example pixel sensor would pixels megapixelsince first digital backs introduced three main methods capturing image based hardware configuration sensor color filters 
+
+singleshot capture systems use either one sensor chip bayer filter mosaic three separate image sensors one primary additive colors red green blue exposed image via beam splitter see threeccd camera 
+
+multishot exposes sensor image sequence three openings lens aperture several methods application multishot technique common originally use single image sensor three filters passed front sensor sequence obtain additive color information another multiple shot method called microscanning method uses single sensor chip bayer filter physically moved sensor focus plane lens construct higher resolution image native resolution chip third version combined two methods without bayer filter chip 
+
+third method called scanning sensor moves across focal plane much like sensor image scanner linear trilinear sensors scanning cameras utilize single line photosensors three lines three colors scanning may accomplished moving sensor example using color cosite sampling rotating whole camera digital rotating line camera offers images high total resolution 
+
+choice method given capture determined largely subject matter usually inappropriate attempt capture subject moves anything singleshot system however higher color fidelity larger file sizes resolutions available multishot scanning backs make attractive commercial photographers working stationary subjects largeformat photographsoriginal research 
+
+improvements singleshot cameras image file processing beginning st century made single shot cameras almost completely dominant even highend commercial photographymost current consumer digital cameras use bayer filter mosaic combination optical antialiasing filter reduce aliasing due reduced sampling different primarycolor images demosaicing algorithm used interpolate color information create full array rgb image data 
+
+cameras use beamsplitter singleshot ccd approach threefilter multishot approach color cosite sampling foveon x sensor use antialiasing filters demosaicing 
+
+firmware camera software raw converter program adobe camera raw interprets raw data sensor obtain full color image rgb color model requires three intensity values pixel one red green blue color models used also require three values per pixel single sensor element cannot simultaneously record three intensities color filter array cfa must used selectively filter particular color pixel 
+
+bayer filter pattern repeating x mosaic pattern light filters green ones opposite corners red blue two positions high proportion green takes advantage properties human visual system determines brightness mostly green far sensitive brightness hue saturation sometimes color filter pattern used often involving two different hues green provides potentially accurate color requires slightly complicated interpolation processcameras digital image sensors smaller typical mm film size smaller field angle view used lens focal length angle view function focal length sensor film size used 
+
+kids mm mmjpg 
+crop factor relative mm film format smaller sensor used digicams field view cropped sensor smaller mm fullframe format's field view narrowing field view may described crop factor factor longer focal length lens would needed get field view mm film camera fullframe digital slrs utilize sensor size frame mm film 
+
+common values field view crop dslrs using active pixel sensors include x canon apsh sensors x sony apsc sensors used nikon pentax konica minolta fujifilm sensors apsc canon sensors ~x sigma's foveon sensors x kodak panasonic /inch sensors currently used olympus panasonic crop factors nonslr consumer compact bridge cameras larger frequently x morecompact cameras intended portable pocketable particularly suitable casual snapshots 
+
+many incorporate retractable lens assembly provides optical zoom models auto actuating lens cover protects lens elements ruggedized waterresistant models retract superzoom capability retract fully 
+
+compact cameras usually designed easy use almost include automatic mode auto mode automatically makes camera settings user also manual controls compact digital cameras typically contain small sensor tradesoff picture quality compactness simplicity images usually stored using lossy compression jpeg builtin flash usually low power sufficient nearby subjects high end compact digital cameras hotshoe connecting external flash live preview almost always used frame photo integrated lcd display addition able take still photographs almost compact cameras ability record video 
+
+compacts often macro capability zoom lenses zoom range x generally enough candid photography less available bridge cameras x interchangeable lenses dslr cameras available much higher cost autofocus systems compact digital cameras generally based contrastdetection methodology using image data live preview feed main imager compact digital cameras use hybrid autofocus system similar commonly available dslrs high end travel compact cameras x optical zoom full manual control lens ring electronic viewfinder hybrid optical image stabilization builtin flash full hd p raw burst shooting fps builtin wifi nfc gps altogether 
+
+typically compact digital cameras incorporate nearly silent leaf shutter lens play simulated camera sound skeuomorphic purposes 
+
+low cost small size cameras typically use image sensor formats diagonal mm corresponding crop factor gives weaker lowlight performance greater depth field generally closer focusing ability smaller components cameras using larger sensors cameras use larger sensor including high end pricey fullframe sensor compact camera sony cybershot dscrx capability near dslr 
+
+variety additional features available depending model camera features include ones gps compass barometer altimeter mean sea level underwater mean sea level rugged waterproof 
+
+starting compact digital cameras take d still photos d compact stereo cameras capture d panoramic photos dual lens even single lens play back d tv 
+
+sony released two addon camera models without display used smartphone tablet controlled mobile application via wifibridge cameras physically resemble dslrs sometimes called dslrshape dslrlike provide similar features like compacts use fixed lens small sensor compact cameras also psam mode use live preview frame image usual autofocus contrastdetect mechanism compacts many bridge cameras manual focus mode separate focus ring greater control 
+
+big physical size small sensor allow superzoom wide aperture bridgcams generally include image stabilization system enable longer handheld exposures sometimes better dslr low light condition 
+
+bridge cameras come two principal classes terms sensor size firstly traditional / sensor measured image sensor format gives flexibility lens design allows handholdable zoom mm mm equivalent wide angle way mm supertele secondly sensor allows better image quality particularly low light higher iso puts greater constraints lens design resulting zoom lenses stop mm constant aperture eg sony rx mm variable aperture eg panasonic lumix fz equivalent corresponding optical zoom factor roughly 
+
+bridge cameras lens thread attach accessories wideangle telephoto converters well filters uv circular polarizing filter lens hoods scene composed viewing display electronic viewfinder evf slightly longer shutter lag dslr many cameras store images raw format addition supporting jpeg majority builtin flash hotshoe 
+
+bright sun quality difference good compact camera digital slr minimal bridge cameras portable cost less greater zoom ability thus bridge camera may better suit outdoor daytime activities except seeking professionalquality photosin late new type camera emerged called mirrorless interchangeablelens camera milc uses various sensors offers lens interchangeability simpler compact dslrs due lens reflex system milc camera models available various sensor sizes including small / inch sensor commonly used bridge cameras original pentax q recent pentax q versions slightly larger / inch sensor inch sensor micro four thirds sensor apsc sensor sony nex series fujifilm x series pentax k canon eos m sony alpha use full frame mm sensor 
+
+olympus panasonic released many micro four thirds cameras interchangeable lenses fully compatible without adapter others proprietary mounts kodak released first micro four third system camera 
+
+march milc cameras available appeal amateurs professionalswhile digital cameras interchangeable lenses feature lensmount kind also number modular cameras shutter sensor incorporated lens module 
+
+first modular camera minolta dimâge v followed minolta dimâge ex minolta metaflash d ricoh released ricoh gxr modular camera 
+
+ces sakar international announced polaroid im mp camera sensor interchangeable sensorlens adapter micro four thirds nikon kmount lenses planned ship camera 
+
+also number addon camera modules smartphones called lensstyle cameras lens camera contain components digital camera module lack viewfinder display controls instead mounted smartphone use display controls lensstyle cameras include 
+
+sony smartshot qx series announced released mid january announced firmware update cybershot smartshot dscqx dscqx september sony announced cybershot smartshot dscqx well smartshot ilceqx latter emount instead builtin lens 
+kodak pixpro smart lens camera series announced 
+vivicam smart lens camera series vivitar/sakar announced 
+olympus air lens camera announced released lens camera open platform using android operating system detach parts sensor part lens part micro four thirds system lenses attached sensor part lens cameradigital singlelens reflex cameras dslr use reflex mirror reflect light also swivel one position another position back initial position default reflex mirror set degree horizontal blocks light sensor reflects light lens pentamirror/prism dslr camera reflections arrives viewfinder reflex mirror pulled horizontally pentamirror/prism shutter release fully pressed viewfinder dark light/image directly strike sensor time exposure speed setting 
+
+autofocus accomplished using sensors mirror box dslrs live view mode allows framing using screen image sensor 
+
+cameras much larger sensors types typically mm mm diagonal crop factor larger sensor permits light received pixel combined relatively large lenses provides superior lowlight performance field view aperture larger sensor gives shallower focus 
+
+use interchangeable lenses versatility usually lenses made digital slr use recent trend lenses also used detachable lens video camera without adaptera dslt uses fixed translucent mirror instead moving reflex mirror dslr translucent mirror transmissive mirror semitransparent mirror mirror reflects light two things time reflects along path pentaprism/pentamirror goes optical view finder ovf done reflex mirror dslr cameras translucent mirror also sends light along second path sensor total amount light changed light travels one path travels consequences dslt cameras shoot half stop differently dslr practice significant differences dslt dslrcitation needed one advantage using dslt camera blind moments dslr user experiences reflecting mirror moved send light sensor instead viewfinder exist dslt cameras time light traveling along paths dslt cameras get benefit continuous autofocus tracking especially beneficial burst mode shooting lowlight conditions also tracking taking videocitation needed 
+
+early sony released dslt cameras march sony released dslts dslrs relatively complete lenses lineup 
