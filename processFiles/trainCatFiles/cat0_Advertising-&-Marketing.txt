@@ -1,0 +1,1639 @@
+About Known
+
+Known is a modern marketing company engineered for the unprecedented challenges and opportunities facing marketers today. Known pairs PhD data scientists with award-winning creatives, expert research teams and strategists. Known is anchored by two decades of groundbreaking market research and data science capabilities, which uniquely empower our marketing strategy and acclaimed creative groups, who produce some of the most innovative, cutting-edge creative work in culture. The result? Marketing that is predisposed to succeed and be persistently optimized, directly impacting clients' bottom lines. Our clients span the leading brands in finance, technology, media, CPG, real estate and many other categories. Known has over 200 employees in 6 US cities including Seattle, San Francisco, Los Angeles, Austin, Boston and New York. Our teams have won multiple Emmys, Clios, Effies, Cannes Lions Awards and ProMax Agency of the Year three times.
+
+Known's Media Science team uses advanced analytics, machine learning, statistics, and algorithms to plan and optimize advertising dollars. We partner with our clients to translate their business goals into meaningful metrics, and buy media across all channels to drive those target outcomes. We are looking for a Senior Data Analyst to join the team and work alongside other data analysts, data scientists, and software engineers.
+
+The ideal candidate will have:
+A BS/BA degree from a well-regarded college or university. STEM degrees are preferred.
+2-5 years experience in analytics, advertising, ad tech, or media. Experience utilizing Python (or similar language) and SQL regularly
+Proficiency in Microsoft Office (Excel, Word, PowerPoint)
+A desire to work on advertising challenges that require flexibility in approach -- everything from on-the-fly analytics to statistics, big data, machine learning, and mathematical algorithms (but not alone!)
+A willingness to learn foundational knowledge and skills rapidly
+Superb communication and presentation skills
+Ability to think strategically, analytically, and proactively about diverse business problems
+Passion for managing the quality & accuracy of analytics, including checking your and others' work
+Experience multi-tasking in a fast-paced environment is a plus
+Experience working directly with clients is a plus
+Experience with media buying is a plus
+Experience with predictive analytics / data science is a plus
+Your responsibilities would include:
+Driving performance for our media campaigns and amazing our clients
+Day-to-day monitoring, management, optimization, and development of assigned campaigns
+Creating and validating data analyses
+Building stories and slides for client reports
+Developing new approaches (algorithms, models, and automation) to optimize KPIs and improve Known IP
+Operating existing software infrastructure to traffic, evaluate performance, and analyze media
+Interfacing directly with clients to communicate results,Undertone stands alone among AdTech and ad network businesses in its ability to address marketing objectives through Synchronized Digital Branding and extraordinarily creative treatments. We drive best in class results for clients through Undertones expansive rich media and video capabilities that are expressed across multiple channels and platforms, matching the consumer journey.
+
+Undertones Data Management Service (UDMS) is a big data, cloud-based data-warehouse, dashboard and reporting environment. Do you want to help enable a data-driven organization? This is your opportunity to join a mission critical team, at an innovative company in an industry just beginning to harness the power of data.
+
+As member of the Undertones UDMS Team, the Data Analyst drives value by providing provocative, differentiating analytics and insights. This position will support a wide variety of business intelligence efforts across Undertone while working in a highly collaborative manner within multiple large, cloud-based data sources to identify insights and spearhead our next generation product offerings. Most importantly, you should love the data, working with data, finding the nuance that leads to key differentiation for the business and our customers. This is a high visibility analytics and consulting position requiring daily interaction with business users, data scientists, engineers and key stakeholders.
+
+Job Responsibilities:
+Work with business teams to understand their analytical needs, including identifying critical metrics and KPIs
+Use analytical and problem-solving skills to deliver actionable insights to relevant decision makers
+Develop rich interactive visualizations integrating various reporting components from multiple data sources
+Use SQL, Tableau and other technologies to pull data from different backend systems and product meaningful information and visualizations
+Take complicated problems and build simple frameworks
+Work directly with users and management to gather requirements, provide status updates, and build good relationships and rapport
+Profile and Experience:
+A minimum of 1 year of a full-time data analytics experience, ideally in an Ad-tech company
+A minimum of a Bachelors degree in Engineering, Mathematics, Business, or related field
+Expert SQL coding skills against large data sets
+Strong analytical skills, including the ability to mine data in order to draw meaningful conclusions
+Strong oral and written communications skills
+Knowledge of Business Intelligence tools such as Tableau
+Powered by JazzHR,Data Analyst (Decision Science)
+
+Hearst is an American mass media and business information conglomerate. It owns a wide variety of newspapers, magazines, television channels, and television stations, including the San Francisco Chronicle, the Houston Chronicle, Cosmopolitan, Esquire, 50% of cable network A+E, and 20% of the sports broadcaster ESPN.
+
+Are you looking for a great opportunity to grow in your profession as a decision scientist?
+
+Do you want to be part of a lean team that is helping lead the evolution of local news?
+
+At Hearst you will have the chance to make a data driven impact by forming strong partnerships with marketing, editorial, product, ad operation and executive leadership teams.
+
+You will be working with traffic, subscriptions, advertising, and email data and have the opportunity to work in Python, R, Big Query SQL, Looker, PowerBI and more!
+
+Role
+Clean, prepare and explain datasets, use advanced analytics to identify key trends, size up opportunities, and then work closely with business leaders to turn those opportunities into action.
+Work with the latest analytic tools to perform advanced analysis and discover insights.
+Create iterative and highly reproducible analytic scripting to show ongoing improvement in data visuals and analytical techniques.
+Partner closely with data scientist to extract learnings from latest prediction models.
+Streamline automation to help us scale and ensure ongoing data integrity.
+Qualifications
+Demonstrated comfort working autonomously in Python/R, particularly working with dataframes.
+2+ years' experience in a data analytics role.
+Degree/Advanced degree in a technical/mathematical program preferred.
+Strong interpersonal and communication skills, experience building presentations.
+Passion for problem solving and data exploration.
+Experience in statistical methods a huge plus.
+SQL knowledge
+Must be hungry to take on a highly technical role and make a clear business impact.
+NA,Type: Paid Intern (in a farm team)
+
+Function: Data Analyst
+
+Education: BS/BA; MBA or advanced degree in statistics/mathematics preferred
+
+Experience: Some exposure to marketing analytics and/or 1:1 marketing
+
+Background:
+
+Customer analytics, digital analytics, data analysis, business intelligence (BI) reporting, customer segmentation, statistical analysis, modeling, data modeling
+
+Company Information:
+
+BuyerGenomics is a fully automated customer and prospect management system, enabling robust usage of data in everyday marketing operation ensuring significant growth in business for retailers. It includes, in a fully automated fashion, all data-related marketing functions users can imagine; seamless data ingestion and consolidation, customer-centric database featuring true 360-degree customer view, comprehensive reporting, intuitive segmentation and targeting, as well as user-friendly email campaign functions. BuyerGenomics packs so many features which have been available only to big-time spenders; now small and medium size retailers may get the full benefit of advanced database marketing at a fraction of the cost.
+
+Here at BuyerGenomics, our mission statement is simple: âMake Success Inevitableâ. BuyerGenomics accomplishes that mission through data-driven and result-oriented culture that aggressively rewards problem-solving, client relationship building, and thought-leadership. We are looking for âsmart creativeâ minds who can solve problems, synthesize data, and continuously learn new ways to help clients market smarter.
+
+Position Description:
+
+Going through rapid growth as a startup company, we are currently searching for data analyst interns who can help our clients with reporting and analytics, and gain valuable industry knowledge along the way. While BG offers comprehensive set of reports on all levels, some clients may require further assistance in deriving business insights from them, and from time to time, developing ad hoc reports and solutions to their unique set of challenges.
+
+A successful candidate will have basic knowledge in analytical toolsets and methodologies, working knowledge in various types of data visualization software, excellent verbal and written communication skill, and most importantly, positive attitude and desire to learn new things.
+
+In an intimate startup setting, this position will report to Chief Product Officer, who will also be a primary trainer and a guide. The data analyst will work in our main office in New York City on a daily basis.
+
+Requirements:
+
+Obtain knowledge in client business model, their long and short-term business goals, and unique set of challenges in the context of online and offline 1:1 marketing (some direct interaction with clients may be necessary).
+Participate in solutioning sessions led by senior members of the company.
+Assist in procurement of data from various sources and perform data audits.
+Produce standard and ad hoc reports, in graph or report formats, as required.
+Help creating client presentations, providing key metrics and backup reportsÂ·
+Interpret analytical results and provide insights; present key findings in a concise manner.
+Continuously seek for domain and industry best practices and make suggestions.
+Audit deliverables ensuring accuracy by critically examining the data and reports against requirements.
+Collaborate with Account Managers and the product development team for product improvements and new features development.,Advertising Data AnalystHearst Television is seeking an Advertising Data Analyst to join our team.The candidate will be responsible for:? Collaborating with sales, tech and product teams to design, implement and refine state-of-the-art digital dashboards.? Helping to define and drive Hearst Television's data visualization and presentation strategy.? Evaluating existing data sources and related products on a regular basis, performing QA and health checks to ensure data integrity.? Performing ad hoc analysis to support our local sales staff, as well as creating custom visualizations as needed.? Helping to evangelize sales reporting needs and priorities to the product and tech teams.? Defining UI specs and user experience, managing related vendors and scope of work.? Interpreting data to inform decisions and tell accurate stories to our advertisers.Knowledge:? Experience collecting, integrating, and manipulating new data to be fed into BI tools or data lakes and a basic understanding of data storage and retrieval architecture.? Strong experience with data analysis and visualization software, e.g. Google BigQuery, Power BI, Domo, Tableau or similar.? SQL, R or other analysis language proficiency preferred.? Experience with digital ad campaign/DMP reporting platforms and metrics.Skills and Abilities:? Strong analytical mindset with a passion for investigative analysis.? Ability to communicate and document processes and analysis, and clearly communicate results to technical and non-technical teammates.? Comfortable interacting with sales teams and occasionally with external clients.? A high level of organization and prioritization; must be able to assess and assign priority to multiple goals, and clearly communicate timelines.? Proven ability to multitask in a fast paced, fluid environment.Experience:? 3 - 5 years experience in a digital analytics or digital ad campaign analysis role.? Project management and goal-setting experience within a digital analytics or analysis environment.Education:Bachelor's degree in relevant field or equivalent experience required.,MediaMath is a leading global independent advertising technology company, working with brands and agencies. We created the first software for real-time media buying in 2007 and today work with over two-thirds of the Fortune 500 and more than 3,500 brands and their agency partners to grow and deepen direct customer relationships.
+
+We have recently launched SOURCE by MediaMath which provides our clients with the most trusted, efficient, and effective way to connect their brands with consumers: real impressions on real media properties with policies and practices that respect the humans behind billions of screens and speakers every day.
+
+We need talent like you to fuel this next-generation ecosystem.
+
+Key Responsibilities:
+MediaMath's Account Analytics team is currently seeking a Data Analyst with the knowledge, passion and capability to mine complex datasets, discover and deliver insights that drive value for our clients. The Analytics team fulfills customers' advanced analytics and reporting needs through custom reports and analyses, advanced statistical applications, predictive modelling and interactive web dashboards to help clients effectively manage campaigns and optimize performance. This role, on the Account Analytics team within the Analytics team, will extend that value proposition to more custom, client-specific initiatives. The ideal candidate has the appropriate blend of technical capabilities, business acumen and analytical skills to manage a team of analysts that focus on the challenges of our biggest clients and uncover actionable insights that drive revenue.
+
+You will:
+Develop a deep understanding of the MediaMath databases collection process and architecture of databases
+Partner with the account and sales team to identify client's analytical and reporting needs and present solutions
+Create materials (client facing and internal) that package and promote Analytics offerings.
+Design innovative, new and exciting reports and analyses and fully own projects from scope to execution
+Articulate results of data analysis to clients, stakeholders and internal groups; translate technical results to a non-technical audience.
+Be fully autonomous and self-motivated in making processes as efficient as possible
+QA all of their own work in addition to reviewing their team member's code to promote knowledge sharing
+Maintain a high level of pride in their own work, always looking to improve current processes and widen scope
+
+You are:
+An excellent problem-solver and have superior analytical skills
+Good with multi-tasking, time management and prioritizing projects and deliverables
+A strong communicator ability to distill key ideas for a non-mathematical audience
+Comfortable working in a fast-paced, fun, and entrepreneurial environment
+Collaborative and team focused
+Experienced in working with disparate reporting systems within an organization
+Experienced in working with Analytics contacts at agencies/brands directly
+You have:
+Bachelor Degree or higher, preferably with a concentration in a computational field such as Computer Science, Mathematics, Statistics, Physics, Engineering; Masters Degree preferred
+1 - 2 years of experience working with large data sets or relational databases; Marketing experience a plus
+Strong SQL and Python programming; experience of at least one big data technology, e.g. MapReduce, Hadoop, Hive, Spark, Pig, AWS/S3 a plus
+Excellent problem-solving capabilities and superior analytical skills
+
+Why We Work at MediaMath
+
+We are restless innovators, smart, passionate and kind. At the heart of our culture are six values that provide a framework for how we approach our work and the world: Teams Win, Scale + Innovation, Obsess Over Learning & Growth, Align then Execute, Do Good Better and Embrace the Journey. These values inform how we energize one another and engage with our clients. They get us amped to come to work. And, let's face it, so do the free snacks, great benefits, and unlimited vacation.
+
+We were named a Leader in both the 2018 and 2019 Gartner Magic Quadrants for Ad Tech, won four awards from the IAB for Sales, Service and Education Excellence, and received Best DMP in the 2019 Digiday Technology Awards. We have offices in 16 cities worldwide and are headquartered in New York City.
+
+MediaMath is committed to equal employment opportunity. It is a fundamental principle at MediaMath not to discriminate against employees or applicants for employment on any legally-recognized basis including, but not limited to: age, race, creed, color, religion, national origin, sexual orientation, sex, disability, predisposing genetic characteristics, genetic information, military or veteran status, marital status, gender identity/transgender status, pregnancy, childbirth or related medical condition, and other protected characteristic as established by law.,We are looking for a seasoned data analyst to become a key player in our Data Product team. Successful candidates will be responsible for empowering our team with meaningful data, validating new products and features, identifying optimization opportunities, and utilizing automation techniques to improve team efficiency. The candidate will be working on a myriad of projects and efforts, including many driven by their own insights and findings. There's never a dull moment; repetitive tasks are non-existent. There's an absolutely incredible amount you will learn here, and you'll be working with one of the largest user behavior datasets in existence.
+
+Data is your passion, you're eager to learn, and you're ready to fully exercise your skill-set.
+
+Responsibilities
+Manage projects of the Analytics Team
+Design, Develop and Maintain new data sets
+Perform rigorous audits of existing data for validity
+Reduce the current cost of data infrastructure with data minimization and query optimization
+Automate existing redundant tasks using data and tools like looker and airflow
+Work with cross-departmental key stakeholders to prioritize projects and translate business needs to analytics needs
+Work with members of the analytics team to hit KPI targets and ship new analytics products
+Requirements
+5+ years of experience
+You can perform advanced data transformations in SQL and Excel
+You have experience using Business Intelligence tools like Looker to make data available to a broader audience
+You can utilize scripting languages like python and R to complete advanced analyses of massive datasets
+You can design and create thoughtful queries that identify outliers and unexpected changes in business metrics
+You are comfortable reporting on the performance of digital marketing A/B tests
+Experience working with abstract concepts and simplifying requirements for easier consumption
+You are comfortable using basic statistics concepts
+Strong technical skills, business sense, and clear communicator
+You're forward-thinking, dynamic, and innovative
+You're eager to learn
+BounceX is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+JOIN US ON OUR MISSION
+BounceX is an international marketing technology solution that brings a "logged-in" experience to logged-out website visitors across all their devices. A category leader in device identity resolution, BounceX helps companies like Uniqlo, HelloFresh and Tribune Interactive orchestrate real-time, multichannel marketing programs customized for the individual behind each device. They're best known for their impact on triggered email performance and website personalization.
+
+Having raised over $44.9 million in funding from proven firms like Battery Ventures, Cross Creek Advisors and Primary Ventures, BounceX was named the Fastest Growing Software Company in America by Inc Magazine. With headquarters in New York and London, BounceX has been recognized by Glassdoor and Crain's for its exceptional culture and being one of the top places to work in the country. The company recently signed both the White House Equal Pay Pledge and the United Nations Women's Empowerment Pledge and continues to set the bar as a pioneer in technology innovation and workplace inclusion initiatives.
+
+What bonds our community together is our commitment to 5 Core Values:
+Come Hungry
+Carry Each Other
+Drive Undeniable Performance
+Respect People, Privacy, Ideas
+Bounce Back
+Come join us on our mission.,Vistrada is looking to hire a Senior Data Analyst to work on a client engagement. The Senior Data Analyst will need to have a solid understanding of how to work with a enterprise content management systems for ingestion, indexing, storage, retrieval and archival. The duration of this assignment will be 6-12 months.
+
+Required Experience/Skills:
+4+ years of Data Analyst work experience
+2+ years of Optical Character Recognition technology experience
+2+ years of Machine Learning experience
+2+ years of Artificial Intelligence processing experience
+2+ years of Document / Data Centric Processing experience
+Located within the United States with legal authorization to work in the United State
+Excellent Communication Skills
+Team Player
+Prior experience working in a fast-paced, deadline driven environment
+Proficiency with Microsoft Office Suite (e.g., MS Outlook, MS Word, MS Excel, MS PowerPoint)
+Strong analytical and problem-solving skills with a history of learning and adapting quickly
+Excellent written, verbal, and consultative skills
+Strong understanding of technology
+Nice to Have:
+Big 4 consulting experience
+Financial Services experience
+Enterprise Content Management Product Experience - i.e., Documentum, FileNet, OpenText, etc.
+Enterprise Content Capture Product Experience - i.e., Captiva, etc.
+Location: 100% remote
+
+Company Background:
+
+Vistrada is a business, technology and operations services organization dedicated to helping clients plan, design, implement and manage initiatives to generate revenue, manage costs, build and sustain operations, and analyze and optimize their business.
+
+Vistrada distinguishes itself by providing seasoned expertise with a flexible team structure allowing agility and responsiveness to our clients evolving needs. This ensures we bring the right team at the right time while optimizing the clients investment.
+
+Powered by JazzHR,This is an outstanding 2 year contract opportunity with our client, a well-respected market leader, located in Lake Success, NY.The Production Data Analyst (DA) develops database queries, scripts, tools, and methods to manage data according to client requirements, within defined technical standards, and within time constraints. Emphasis is on ETL procedures. The DA is proficient with relational database concepts and practices, is able to evaluate and write complex SQL queries, and can create and maintain common database objects such as views, stored procedures, and user-defined functions. The DA should be familiar with and able to utilize code management and/or revision control tools and follow standard software development practices. The majority of time is spent developing and refining ETL processes, writing update queries, and writing ad-hoc queries on behalf of clients and stakeholders.
+
+Job Responsibilities
+
+Develop and maintain ETL procedures according to client specifications and within defined technical standards.
+
+Develop and maintain database stored procedures, user-defined functions, views, triggers and other common database objects.
+
+Write custom and ad-hoc SQL queries and update queries.
+
+Follow prescribed software development standards, processes, procedures, methodologies, etc., according to departmental policies and conventions.
+
+Interact and correspond professionally with team members, project management, clients, and other stakeholders.
+
+Account for and accurately log time against project work.
+
+BS Computer Science or related discipline, or equivalent industry experience.
+
+2+ years hands-on experience with MS SQL Server, 2008 R2 or higher, as a developer or DBA.
+
+Strong SQL skills, able to create and to evaluate complex SQL statements involving numerous tables and complex relationships.
+
+Ability to work in an environment with deadlines and shifting priorities.
+
+Basic understanding of and experience with query performance tuning.
+
+Experience developing and maintaining ETL procedures.
+
+Experience with SSIS preferred.
+
+Experience or familiarity with C# or Visual Basic is a plus
+
+Ability to communicate effectively, both verbally and in writing; able to adjust for intended audience. Fluency in English.
+
+THIS POSITION IS OPEN TO W-2 CANDIDATES ONLY. NO THIRD PARTIES PLEASE.,A BIT ABOUT OUR DATA & ANALYTICS TEAM
+
+The Kinship Data & Analytics team is a newly formed group with global impact on the Kinship businesses. This team, a mixture of engineering, product insights, and data science associates, will partner with internal and Mars Petcare teams to build a rich understanding of pets and pet-owners and power our business and the Kinship data ecosystem. We are using an evolving, cutting edge tech stack to help us ingest, process, model and democratise data from across the segment to create robust pet-centric views of our clients. As the lead data product analyst on a new team, you will have the opportunity to create foundational knowledge about our products and contribute to the future growth of our platform strategy.
+
+HOW YOU'LL CREATE A BETTER WORLD FOR PETS
+Explore data to unlock actionable insights and make recommendations as they relate to subscription behavior, profitability, and product development to build the foundations for a better understanding of pets and pet-owners
+Design compelling reporting and data visualizations to communicate meaningful metrics to different audiences within the business
+Take initiative to answer the question behind the question â we are looking for people who are always asking why
+Partner across the Kinship businesses to surface insights and influence how the organization thinks about our challenges
+Further a collaborative environment across teams and business units by operating in an agile environment
+WHO WE NEED TO CHART THE FUTURE OF PET CARE
+
+We strive to hire people who are passionate about our mission: creating a better world for pets. For all of our Kinship roles, we look for candidates who exemplify our attributes through consistent behaviors. We believe what we do is just as important as how we do it, and we aim to hire people who are:
+Optimistic. Those who's boundlessly energy and enthusiasm for what's next shines through in everything they do. We seek to work with people who are intrinsically happy, and who will drive our vision and purpose while managing the complexities of our businesses.
+Purposefully Inquisitive. Those who are courageous and use their deep business insights to cultivate innovation. We want the trailblazers in tech. Those who are entrepreneurs at heart, ask the tough questions, adapt quickly to new situations, and analyze data in new ways to push our big ideas forward.
+Open to All. Those who are inclusive leaders, committed to learning, and leveraging our differences as strengths. We hire people who are naturally collaborative and thrive in a flat and flexible organization. Those who are thoughtful communicators, and seek to foster meaningful relationships across our community of diverse partners.
+And for this role, we hope you have the following skills we require to round out our team:
+4+ years of applied experience executing analysis, communicating results, & developing metrics that matter
+Expertise in common techniques for SAAS subscription businesses, such as lifetime value modeling, churn analysis, shopping cart optimization, A/B testing, cohort analysis, etc.
+Fluent in Python and SQL; FYI we use PySpark to interrogate our data asset
+Experience with popular visualization tools (i.e. Looker, Tableau etc.)
+Experience with popular tech stacks: we use Azure and Databricks, with AWS and Redshift thrown in as needed; Excel knowledge is a reality as well
+A strong communicator â you enjoy translating complex concepts to a variety of audiences
+If you also had these experiences, you'd knock it out of the park:
+Passion for growing and strengthening a business using data driven approaches
+You are scrappy. You approach questions with a rigor, but you are also pragmatic -- the simplest solution may be the best at times.
+Experience with mobile app metrics (user acquisition, sessions, re-engagement) is a plus
+WHY JOIN US?
+
+We offer our associates a unique opportunity to have a completely customizable career within pet care. Through Kinship you will work with and learn from a community of industry executives, pet partners, entrepreneurs, and fellow associates across our startup investment companies, outside partners, and in Mars Petcare. Our nimble and flexible approach to work allows you to make an immediate impact across businesses, while learning new skills at every stage. The diversity of our work opens doors to big opportunities and unlocks enormous potential for countless career experiences in pet care. Join us in our mission to chart the future of pet care, alongside the industry's brightest minds.
+
+Kinship's offices are global, and so are our associates. We are located in NYC, San Francisco, Portland, London, Helsinki, Shanghai, and in Moscow. Many of us flex between our dog-friendly hubs and our home offices. Today, Kinship offers exceptional benefits for you, your family, and your pets, generous paid time off, exponential opportunities to build a career within pet care, and progressive reward packages. Interested? Let's take big strides, together.
+
+Mars is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. If you need assistance or an accommodation during the application process because of a disability, it is available upon request. The company is pleased to provide such assistance, and no applicant will be penalized as a result of such a request.
+
+Copyright Â® 2019,Direct Client Requirement
+Position: Data Analyst - III
+Location: NYC, NY
+Duration: 12 months
+
+Job Description:
+Lead and execute planning and architecture initiatives for data related projects and implementations with a heavy emphasis on business intelligence and data visualization tools and techniques;
+Organize resources to effectively manage multiple projects simultaneously and meet established deadlines;
+Execute day-to-day activities to ensure that project deliverables are completed on time according to projects plans;
+Interact closely on projects with other staff within the Corporate Group, and the Bank's Technology Services Group;
+Provide technical and data leadership to projects, advising project teams and assisting with resolution of technical issues and challenges;
+Mentor staff in "best practices " for the development of business intelligence \ data visualization solutions and reports;
+Contribute to data solution architecture;
+Work with various customers within the Corporate Group to understand and translate business data use cases and/or requirements into data models, analytics reports and scenario models;
+Adopt and communicate new concepts, ideas, techniques, and best practices;
+Assist with development of data base designs as well as development of solutions reporting and BI solutions;
+Play the business lead role as well as that of an independent business data architect to meet business needs;
+Assist with development of logical and physical data base designs as well as development of solutions reporting and BI solutions;
+Work on ad hoc requests for data solutions from senior management and the user community at large; Coordinate responses to Clients committees' requests and surveys regarding business data activities and needs;
+Qualifications:
+Bachelor's degree or equivalent work experience;
+Excellent project planning and analytical skills, including the ability to plan and coordinate fast paced data delivery;
+Experience with maintaining end to end data architectures including logical, access, and physical data modeling, as well as experience with aligning the data model with presentation requirements, explicit and implied;
+Strong access modeling/query skills leaning towards the data modeling practice;
+Experience with normalized and dimensional data modeling techniques;
+Hands-on technical experience using data warehouse, business intelligence and analytics products (e.g., Business Objects, Tableau);
+Working knowledge of a BI/report development tool (e.g., Tableau and Business Objects) and proficiency in integrating database (Microsoft Access, and other tools, from existing SQL Server and Oracle databases) into reporting systems;
+Familiarity with different database architectures (e.g., shared everything, shared nothing) and be able to recommend solutions;
+Familiarity with financial, accounting, procurement, and facilities concepts and data a big plus;
+Experience with data analysis and mapping;
+Expertise in the creation and usage of metadata; and
+Strong oral and written communication skills, with the ability to effectively communicate with both technical and non-technical audiences at all levels within technical and business organizations.,The Senior Analyst is responsible for day-to-day data management operations for assigned clients, managing pacing, making recommendations to internal and external stakeholders and assisting with development and delivery of data products in the Data Management suite.
+PRIMARY RESPONSIBILITIES
+â¢ QC data exchanges to and from CMI
+â¢ Export customized list and send to partners for matching
+â¢ Conduct regular campaign list matching
+â¢ Troubleshoot all system, user and list related issues as they arise
+â¢ Analyze planner list analysis target pivot table and export targeted buy file list for dissemination to partners
+â¢ Issue client invoices
+â¢ Request and upload partner circulation files on a quarterly basis
+â¢ Upload target buy file data against client supplied list as requested
+â¢ Scrub target lists for removal of âopt-outâ physicians as requested
+â¢ Maintain archiving system architecture for all data assets
+â¢ Ensure compliance with confidentiality protocols as they relate to data transfers
+â¢ Export target buy lists to meet client requests; capture and invoice all buy file export activity
+â¢ Coordinate all ad hoc list match requests
+â¢ Assist in the development of new data assets and services that lead to incremental revenue growth for family of companies
+â¢ Assist in regular data asset and gap analysis internal audits
+â¢ Maintain and build relationships with key customers and partners
+â¢ Participate in initiatives to monitor, analyze and improve core system performance, accuracy and efficiency
+â¢ Assist in investigation and analysis of market trends
+â¢ Participate in initiatives to monitor, analyze and improve core system performance, accuracy and efficiency
+â¢ Assist in investigation and analysis of market trends
+REQUIREMENTS
+â¢ Bachelorâs degree
+â¢ Experience working with or servicing pharmaceutical and other life sciences companies preferred
+â¢ Advanced knowledge of Microsoft Excel, Access and PowerPoint
+â¢ Strong Analytical Skills
+â¢ Excellent organizational skills
+â¢ Willingness to learn and adapt to a changing environment
+â¢ 2-4 years of experience working with secondary data for marketing
+â¢ SQL/Python experience a plus,About us
+
+ERGO is a marketing technology company that drives the relevance of whatâs inside an email with Smart Content. The best way to understand what we do is to imagine that youâre reading your favorite magazine, and with every page you turn, the magazine learns to anticipate your needs and interests and adapts with relevant content.
+
+Our platform leverages big data to drive our Smart Content modules in digital channels. We use our technology platform and professional-services offering to help grow Fortune 1000 brands.
+
+About the Role
+
+We are looking for a Senior Data Analytics Manager to join our team. Your primary responsibility will be to analyze data and develop visually appealing easy-to-understand charts, graphs, reports, dashboard views and insight narratives and recommendations. More specifically, you will be responsible for:
+Designing and automating reports for specific products, customers and programs using Python, SQL, and Tableau
+Developing and presenting reports with insights to help drive customer and internal decisions
+Performing ad-hoc analysis of composite data to quantify trends in market/customer behavior
+Designing visually compelling dashboard views for our clients
+Developing a thorough understanding of email user data flow
+Developing and maintaining internal and external controls to store and retrieve client data, reports, marketing material, and other data
+What The Role Requires
+Have a deep passion, curiosity, and understanding of advanced data analysis and a strong business sense
+Are a self-starter, problem solver, resourceful and are able to work with limited supervision
+Are flexible and able to manage multiple tasks and deadlines
+Have a strong team spirit
+Are a strong verbal and written communicator and excellent collaborator that values building strong relationships with colleagues, clients, and other stakeholders
+Have the ability to understand complex topics/processes/problems and explain them to your colleagues in simple terms
+Are customer, results, and solutions oriented
+Have 3+ years of experience in a role that required advanced analytics, extensive reporting, and abstracting insights/recommendations from large datasets
+Have a University Bachelorâs Degree in Science, Computer Science, Statistics, Economics, Applied Mathematics, Operational Research, Business Intelligence or similar quantitative discipline
+Have an excellent knowledge of Tableau and Excel (VLookups, Index, Match, SUMIFS, COUNTIFS functions a must)
+Have or can quickly develop a working knowledge of email marketing and web analytics
+Ability to help us win on Trivia Night
+Perks
+Choice of Blink Gym or Citibike membership
+Bagel Mondays
+Working From Home Fridays
+Total of 24 PTO package that includes things like: company shut down between Christmas and New Years, Presidents' Day, Martin Luther King, Jr. Day, two 4-day weekends on the summer holidays, July 4th and a 4-day Thanksgiving break. This also includes 10 PTO days to use at your convenience.
+Office bar cart, daily produce, healthy and unhealthy snacks, Nespresso
+Pool table
+Health, vision & dental benefits
+401k plan with matching
+Pet-friendly office
+Referral bonus program
+A comprehensive career development program and training
+Fun company outings and events
+Very cool industrial-style West Village studio space
+The best perk? Our people. If youâre ready to join us, apply now!,Dentsu Aegis Network (DAN) has a new platform that will be the basis of all client reporting in the Americas. As part of this rollout there is a requirement to provide analysis support for client teams across the region as they on-board to the new system and as they integrate it as part of their day to day.
+
+The regional hub team for the Americas is pivotal in realizing the Product vision by building upon Dentsu Aegisâ successful and innovative technology solutions. Being a key member of the Data Products & Technologies, the Senior Data Business Analyst will manage the team that is responsible for analyzing data on the central data platform across the region, identifying trends and insights, generating requirements, helping to build documentation and supporting engineers in the development of data products.
+
+To be successful in the role, a strong enthusiasm coupled with an interest in supporting a vast data landscape in a fast-paced, demanding work environment is required. The Senior Business Analyst needs to be reactive to the needs and occasionally demands of our clients to ensure that a best in class service is provided.
+
+Job Title:
+
+Senior Data Business Analyst
+
+Job Description:
+
+Key Responsibilities
+Line management of the business and data analysts within the Americas Hub Team
+Support multiple functions related to enabling data ingestion, transformation and use
+Gather and document requirements from clients to ensure a smooth migration to the new platform
+Produce cutting edge insight to drive the offering to clients
+Have good knowledge of SQL/R/Python to be able to analyze log level and aggregate data sets
+Develop detailed data processing documentation
+Conduct audits of sample datasets to ensure alignment to requirements
+Analyze data availability in context of data requirements
+Run tests and analyze data outputs in support of proof of concept exercises
+Support agency and client onboarding to data products and services
+Support remedy of issues found within data sets including identifying issues, solutions and coordinating for resolution
+Prepare reports, recommendations and general documentation as needed
+Engage with product, client agency teams and engineers as needed to support data products
+Support analytical standards across the network and ensure we are in compliance across countries and regions
+Train and inspire fellow team members to deliver great results
+Positively contribute ideas and feedback to help the team grow
+Experience
+Strong experience in a managing a team of data and business analysts
+Extensive experience managing and analyzing advertising campaigns across all channels (online/offline/search/social)
+Extensive experience helping clients to measure and assess their paid media activity
+Proven track record of providing valuable insight from media data
+Ability to innovate with new data sources and devise new measurement frameworks for clients
+Ability to inspire great results from team members and promote innovative work
+Experience with data techniques
+Experience with Web & Mobile ad networks and platforms
+Understanding of Ad Serving Technologies beneficial
+You will be passionate about quality customer service and have a problem-solving mindset
+Strong customer service experience to ensure a seamless service for users
+Must have excellent written and verbal communication skills
+The ideal candidate will have the ability to prioritize, multi-task and work well under pressure
+You will have strong organization, planning and prioritizing skills
+The ability to work autonomously and take your own initiative is an important part of the role
+Due to the nature of the role, it is important for you to be adaptable and flexible to ensure that issues get resolved within the required timeframes
+Minimum Qualifications
+5+ years of related work experience
+3+ years of digital media experience, particularly experience working in ad tech industry with a data-centric role
+Requirements analysis, organization and communication experience
+Hands-on analytics-based programming experience in SQL and managing large data sets, preferably in paid media
+Working knowledge of R and Python preferred
+Practical experience in scrum-based Agile development methodology
+Experience working with JIRA, Confluence, or equivalent
+B.S. in Engineering, Information Management, or Computer Sciences preferred
+Location:
+
+New York
+
+Brand:
+
+Dentsu Aegis Network
+
+Time Type:
+
+Full time
+
+Contract Type:
+
+Permanent,This is an outstanding 2 year contract opportunity with our client, a well-respected market leader, located in Lake Success, NY. Job responsibilities require that the QA Data Analyst meet the critical job demands, including but not limited to, the following key areas:
+
+Confirm the accuracy of initial import of data involving thousands of records
+
+Confirm the accuracy of various data updates and extracts, which involves understanding the logic of complex queries/stored procedures based on requirements, writing appropriate test queries, and executing them to verify the logic and data
+
+Work closely with business partners and the application development team in eliciting project requirements to create test cases
+
+Review requirements specifications and identify gaps and inconsistencies
+
+Work closely with development engineers, business analysts, and other QA team members to identify, report, and troubleshoot defects; verify problem fixes in a detailed, efficient, and timely manner
+
+2+ years(TM) of very strong experience in database testing with the ability to understand, write, and execute very complex SQL queries, and understand the logic of stored procedures
+
+1 + years experience working with T-SQL, or ANSI-89 / ANSI-92.
+
+Intermediate level T-SQL to include thorough understanding of the following concepts:
+
+o Aggregates: COUNT, SUM, MAX/MIN, DISTINCT, GROUP BY, HAVING
+
+o JOIN
+
+o UNION vs UNION ALL
+
+o NULL handling
+
+o Sub queries: IN, EXISTS, and inline views, Correlated Subqueries
+
+o Constraints, Primary keys, foreign keys, defaults
+
+o Error trapping
+
+o Transactions
+
+o Indexing
+
+o Advanced stored procedures and user defined functions programming
+
+o Triggers
+
+Should have at least 3 + years experience in a Software QA role understanding the entire software life cycle and various QA/testing methodologies/techniques
+
+Excellent verbal and written communication skills; Excellent analytical and organizational skills; Strong deductive reasoning
+
+Ability to multi-task and work separate projects in a fast paced & dynamic company environment and extremely tight timelines
+
+Demonstrated ability to work independently with limited direction or as part of a team
+
+THIS POSITION IS OPEN TO W-2 CANDIDATES ONLY. NO THIRD PARTIES PLEASE.,I'm looking for a senior person 8+ years with migration experience and strong communication skills who is local to NYC-
+Rate 90-100 hour c2c + Data Migration Lead/ Analyst
+
+Our client, a major pension provider located in downtown NYC, is looking for a consultant for a long term engagement who is a Senior Data Analyst to profile source data and analyze, design, develop, and test functionality that will prepare data for migration to the new target system. The Senior Data Analyst will collaborate with stakeholders (operational business managers, project managers, business analysts, subject matter experts and other members of the Data Readiness Team) to identify data issues that affect migration of data to the new target system and bridging of data between the legacy system and new system.
+
+<strong>THE DAY TO DAY RESPONSIBILITIES:
+
+With a high degree of independence and leadership skills provide the following:
+Data Readiness Assessment
+Data Migration Development
+Data Issue Management
+TECHNICAL SKILLS YOU NEED TO GET THE JOB:
+8 + years working on Data Issues Analysis and Cleansing projects with progressively increasing responsibilities in Data Management is preferred.
+5+ years working with SQL Server Databases, and SQL. Includes solid T-SQL ad-hoc query coding skills along with solid understanding of Relational Database architectures
+Advanced analytical skills with excellent organizational / multi-tasking skills
+Certified Data Management Professional (CDMP) - Certification Programs from ICCP - (Institute for the Certification of Computing Professionals) is preferred
+Certified Information Management Professional (CIMP) is preferred
+OTHER SKILLS REQUIRED:
+Experience leading / facilitating working sessionsalong with ability to manage a multi-dimensional, multi-project high pressure workload. Equally effective as an individual contributor, team member, or team lead
+Ability to act as a Business Analyst and extract, document and analyze data based on feedback from Subject Matter Experts.
+Superior oral and written communication skills
+Knowledge of Pension Administration is a plus
+Quality assurance of procedures / systems from a data perspective including data audits.
+Demonstrated success in facilitating issue resolution.
+Have participated in a diversified range of successful projects that demonstrate possession of required skills listed.
+Ability to plan, resolve issues, deliver and document workshops / working sessions
+Knowledge of structured project management and system development methodologies
+Superior mathematical skills, able to work with numbers, financial figures and statistics
+Ã
+
+Ã,Data Analyst
+
+
+A prominent financial affiliate network is seeking a Senior Data Analyst to monitor and support its data processes.
+The ideal candidate would be able to develop new reports, frameworks, dashboards, and other tools for the company.
+
+Responsibilities
+Track ROI
+Close interaction with IT Team to design/improve data architecture
+Identify optimization opportunities using predictive modeling
+Develop and implement advanced custom models and algorithms
+Develop tools to monitor and analyze model performance and data accuracy
+
+Qualifications
+Bachelor in Mathematics or computer science
+Knowledge of R, Python, SQL
+Rigorous statistical intuition, deep understanding of core statistical principles, and extensive experience with core methods
+Knowledge of advanced statistical techniques and concepts
+Experience creating and using advanced machine learning algorithms
+
+Your current skills should include
+You are highly organized with the ability to multi-task and prioritize in a fast-paced culture
+You are a critical thinker and able to problem solve
+You have strong verbal communication skills
+Russian fluency is preferred but not required
+We look forward to hearing from all applicants who meet the requirements listed above.
+
+Submit Your Resume Online,Scale is a tech-driven,direct-to-consumer platform that develops and deploys cutting-edge consumer brands from concept to scale, efficiently, profitably and quickly. We are obsessed with perfecting our proprietary technology, processes and methodologies that allow for rapid growth, from inception to SCALE.
+
+Together we have a lifetime of experience in health, nutrition, entertainment, advertising, creative, media buying, strategy, performance optimization, and leadership. We have achieved success that has resulted in thousands of lives changed and millions of dollars in revenue.
+
+We are searching for a Marketing Data Analyst to join our growing Business Analytics team.
+
+Use your data and analytical skills to help develop data and marketing models for existing and new products, new acquisition channels and retention marketing efforts. You will have the opportunity to collaborate with our awesome internal and external teams, such as finance, media buying, growth, development and 3rd party providers to assist with data collection and results tracking.
+
+We are looking for someone with a natural ability to use data to better understand customer behaviour, and use those findings to improve business results including future forecasting, predictive analysis, subscription and retention.
+
+Responsibilities:
+Create and manage the companyÃ¢s online BI tool, including dashboard planning and creation, using data from different data sources, such as our data warehouse and different APIÃ¢s
+Support all departments and teams in dashboard requests based on their business requirements and analytics needs
+Conduct in-depth evaluation and analysis of different marketing efforts to help derive insights and recommendations
+Analyze and aggregate the effectiveness of customer acquisition campaigns and retention efforts using a variety of sources
+Gather information and examine web traffic, social media metrics, marketing campaigns and other activities that will design and create reports for a variety of stakeholders
+Present monthly, quarterly and yearly results to the executive team, as well as provide business insights and assist with strategic planning
+Support the companyÃ¢s key projects and initiatives including data planning and KPI tracking.
+Collaborate with media teams to provide data insights and recommendations for optimization towards marketing goals, campaign ad spend, and campaign funnels across digital channels
+Assist the analytics and development team with new KPIs tracking, API connections, data structure for key projects and database optimization
+Develop predictive models and customersÃ¢ segmentation based on the business needs
+Education Requirements:
+BachelorÃ¢s degree in business, statistics, math, IT or a related field
+Experience Requirements:
+Min. 3 yearsÃ¢ experience in a related field such as eCommerce, Digital Marketing or CPG
+Excellent SQL and Excel knowledge and experience
+Developed knowledged around Digital Marketing
+Demonstrated experience with BI tools (Tableau, Sisense ,Qlik and etc) for both dashboard design and data architecture
+Demonstrated experience with statistical software would be an advantage
+Why You Should Join:
+
+At Scale youÃ¢ll be joining our existing team of skilled and passionate professionals. WeÃ¢re always trying to push the envelope with how we can use technology to drive business processes. We collect and process large amount of data to inform business decisions on a daily basis. We are constantly optimizing and improving the user experience we provide our customers.
+
+If this sounds like a challenge you are up for, we would love to hear from you!
+
+What We Offer:
+Competitive Salary
+Medical, dental, vision and life insurance
+401(k)
+Paid parental leave
+Gym membership
+Generous paid time off (PTO)
+Access to our Ã¢ÅScaling WellnessÃ¢ program - mental health days, yoga sessions, daily meditation, fresh fruits and company provided snacks
+Fun work culture - monthly and quarterly staff events
+Casual Dress
+An amazing team to work alongside !
+Powered by JazzHR,Undertone stands alone among AdTech and ad network businesses in its ability to address marketing objectives through Synchronized Digital Branding and extraordinarily creative treatments. We drive best in class results for clients through Undertones expansive rich media and video capabilities that are expressed across multiple channels and platforms, matching the consumer journey.
+
+Undertones Data Management Service (UDMS) is a big data, cloud-based data-warehouse, dashboard and reporting environment. Do you want to help enable a data-driven organization? This is your opportunity to join a mission critical team, at an innovative company in an industry just beginning to harness the power of data.
+
+As member of the Undertones UDMS Team, the Data Analyst drives value by providing provocative, differentiating analytics and insights. This position will support a wide variety of business intelligence efforts across Undertone while working in a highly collaborative manner within multiple large, cloud-based data sources to identify insights and spearhead our next generation product offerings. Most importantly, you should love the data, working with data, finding the nuance that leads to key differentiation for the business and our customers. This is a high visibility analytics and consulting position requiring daily interaction with business users, data scientists, engineers and key stakeholders.
+
+Job Responsibilities:
+Work with business teams to understand their analytical needs, including identifying critical metrics and KPIs
+Use analytical and problem-solving skills to deliver actionable insights to relevant decision makers
+Develop rich interactive visualizations integrating various reporting components from multiple data sources
+Use SQL, Tableau and other technologies to pull data from different backend systems and product meaningful information and visualizations
+Take complicated problems and build simple frameworks
+Work directly with users and management to gather requirements, provide status updates, and build good relationships and rapport
+Profile and Experience:
+A minimum of 2 year of a full-time data analytics experience, ideally in an Ad-tech company
+A minimum of a Bachelors degree in Engineering, Mathematics, Business, or related field
+Expert SQL coding skills against large data sets
+Strong analytical skills, including the ability to mine data in order to draw meaningful conclusions
+Strong oral and written communications skills
+Knowledge of Business Intelligence tools such as Tableau
+Powered by JazzHR,Job Description
+Position Summary
+
+Data Analyst / Programmer works with project managers to produce variable data print production using various scripting and programming languages to successfully execute customer-required deliverables.
+
+Essential Duties and Responsibilities
+
+Work with customer supplied data
+Produce Variable Data Production files for Client Products
+Presort client data per USPS requirements using presort software.
+Understand USPS requirements for mail automation.
+Modify database including creating tables, finding the proper indexes and primary keys based on their entities and relations (normalization)
+Participate in the testing of programs and systems to ensure proper functionality
+Pulling and updating data using Access, Excel and SQL
+Required to work in a team environment and help verify teammates work.
+
+Skills & Knowledge:
+Computer Science or equivalent degree required
+Proficiency in MS Office, emphasis on MS Excel a must
+MS SQL and Access experience a plus
+Knowledge of UPS and FedEx systems a plus
+Become familiar with basic creative design and layout as it relates to project and processes
+Ability to take initiative and need little supervision
+Ability to be proactive in anticipating and communicating project issues with internal departments
+Ensure tasks are completed on time
+Must pay high attention to details and maintain accuracy and quality
+Adapt to a fast paced changing environment.
+C# .Net programming skills a plus
+
+Company Description
+Over the past 30 years, ABS has grown to over 150 highly-valued employees and now operates out of an 130,000 sq. ft. building in the western suburbs of Chicago. Today, ABS is at the forefront of print and communication workflow technology and is fully equipped to provide a distinctive service to large organizations with both simple and complex communication programs.
+
+We are always looking for dynamic, creative, hard-working individuals to become a part of our ABS team. We are proud of the expertise we offer our clients through our knowledgeable and skilled employees; we would appreciate learning more about you and your interest in joining our team. ABS is pleased to offer competitive compensation and benefit packages which includes 401(K).,Job Description
+Job Title: Data Analyst
+
+Reports to: Manager â Data Engineering
+
+Position Overview:
+
+The Data Analyst position is responsible for the analysis and processing of raw client data. Responsibilities include working with SQL server to process raw client data into Foresightâs standard database schema, managing data cleaning/QA, and building custom reporting queries for internal analysis. This role is also expected to work cross-functionally with the client service and analytics teams to ensure that clients datasets are complete and accurate. Additionally, this role assists with creating the initial insights for a given client by providing an understanding of a clientâs dataset.
+
+Qualities Key for Success:
+Driver for Results: Hard Worker. Focuses energy on high impact tasks in a sometimes ambiguous and multi-tasked setting. Ability to prioritize, execute, and deliver.
+Dig Deeper: High degree of intellectual curiosity. Constantly strives to find the best solution to complicated business problems. Doesnât stop at âgood enoughâ and gets immersed in the clientâs business.
+Domain Expertise: Familiarity with Consumer-Packaged Goods (CPG) datasets such as point of sales and marketing data. Ability to use business logic to manipulate client specific datasets into the Foresight standard. Familiarity with relational database development and data warehousing.
+Teamwork: Team player able to build effective and productive working relationships with all cross-functional disciplines and senior leadership. Strong empathetic and authentic disposition, willing to do whatever it takes to deliver against our goals.
+Communication: Storyteller. Capable of communication both internally and with external clients to better understand the datasets that they are working with. Can effectively communicate concerns found within a dataset.
+Required:
+Bachelorâs Degree in marketing, statistics, computer science or a related field
+Excellent analytical, problem-solving, and communication skills
+High levels of self-motivation, intellectual curiosity, and attention to detail
+Ability to handle multiple, complex projects in a deadline-driven environment
+Demonstrated skill working with relational database systems (SQL Server)
+Familiarity with ETL building systems such as SSIS or Alteryx
+Familiarity with data visualization tools such as Tableau
+Proficiency in MS Office (Excel, PowerPoint),Job Description
+Sr. Business Analyst â Data Privacy/GDPR/CCPA
+
+Looking for an Expert Level BA with extensive experience in Business Process Flow and Documentation, with a winning attitude who is able to give and receive task assignments. This is a direct hire role located in downtown Chicago and offers a competitive base salary, bonus and rich benefit package.
+
+Job Responsibilities:
+Identify, create and facilitate process design changes by conducting business and systems process analysis and design at a complex level.
+Focusing on quality improvement and data management; ensuring data is reliable and valid.
+Developing process improvements or re-engineering and recommending eliminations, while integrating new systems and processes with existing ones.
+Partnering with internal and external customers to ensure systems provided meet the long-term business strategies
+Provide project level analysis â producing required project analysis documentation (business requirements, scope matrix, use cases, sequence diagrams, future state proposals, UAT plan)
+Ability to analyze and synthesize business requirements, including recognizing patterns and conceptualizing processes
+Serve as a liaison between Privacy and Operations/IT to assist or gather business requirements needed for system modifications, enhancement and implementations
+Requirements:
+Business Process modeling (BPM)
+Use Case Modeling (UML)
+Data Subject Rights
+GDPR
+HIPAA Compliance
+
+#IND123,Company Description
+
+Semiconductor
+
+Job Description
+
+Description:
+
+We are looking for a System Analyst/Data Analyst to be a part of the exciting and core to Clients mission: The person will be responsible to work with our business partners (Finance, HR, SMG, SC and CS) to analyze the metadata scanned in our environment and provide opportunities to make better use of the data. Identify critical data to build dashboards and reports that display information related to compliance over time and help drive measurable impact to the organization through the use of data.
+
+Qualifications
+
+The qualified candidate should have the ability to understand, collect, explore and extract insights from structured and unstructured data, and successfully drive meaningful conclusions. Willingness to experiment, learn and solve through methodical approach.
+
+Some technical skills are a plus as the candidate will also have an opportunity to work with our business partners across Client and Product Groups (NSG, DCG, etc.) in gathering requirements and translate them as technical deliverables. The qualified candidate should be a good team player and have the flexibility to work with cross-geo teams ( IIDC & US team).
+
+Required Skills: Collibra expertise is required. Good data analysis skills including expertise with data visualization tools such as Power BI; good communication skills; ability to understand requirements, design solutions & communicate effectively to the technical team, management and our stakeholders; Understanding of Agile principles preferred but not required.
+
+Additional Information
+Additional Skills: Support data source integrations with the tool (knowledge of SSAS, Power BI, HANA, Denodo, Cloudera preferred)
+Experience with Java script, Groovy and ability to develop custom workflows using programming languages.
+
+Minimum Educational Requirement: BS: Computer Science, Engineering or any other related IT degree.,Company Description
+
+Fortune 500 Company
+
+Job Description
+
+DATA ENGINEER
+
+Data Engineer Responsibilities
+â¢ Design, construct, install, test and maintain data management systems.
+â¢ Build high-performance algorithms, models, and prototypes.
+â¢ Ensure that all systems meet the business/company requirements as well as industry practices.
+â¢ Integrate up-and-coming data management and software engineering technologies into existing data structures.
+â¢ Develop set processes for data mining, data modeling, and data production.
+â¢ Create custom software components and analytics applications.
+â¢ Research new uses for existing data.
+â¢ Employ an array of technological languages and tools to connect systems together.
+â¢ Collaborate with members of your team (eg, data architects, the IT team, data scientists) on the projectâs goals.
+â¢ Install/update disaster recovery procedures.
+â¢ Recommend different ways to constantly improve data reliability and quality.
+
+Qualifications
+
+Data Engineer Requirements:
+â¢ Bachelorâs degree in computer science, software/computer engineering, applied mathematics, or physics statistics.
+â¢ Experience in a related field with real-world skills and testimonials from former employees.
+â¢ Possible work experience and proof of technical expertise.
+â¢ Intellectual curiosity to find new and unusual ways of how to solve data management issues.
+â¢ Ability to approach data organization challenges while keeping an eye on whatâs important.
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.,Does optimizing marketing efficiency and effectiveness get you all hot and bothered?
+
+Do well written formulas make you all tingly inside? We are hiring a digital analyst who sees the stories and humans inside the numbers. Someone who can transform data into actionable insights to drive our clientsâ websites, applications and digital/social marketing.
+
+The Mandatories
+Love of big ideas.
+Assist in the design and planning of campaign/site success measurements.
+Work collaboratively with the Digital Strategy, Account Management, Media, and Social departments to develop hypothesis, establish KPIs and ask pointed questions.
+Collect and aggregate consumer, business, campaign and media data from a number of different sources.
+Monitor and analyze performance to provide insights and recommendations for optimizations and improvements.
+Help drive the creation of dashboards and periodic reports for clients as well agency-wide reporting processes and templates.
+Demonstrated passion for telling stories with quantitative data.
+2+ years of relevant work experience, agency side is a plus.
+Extensive knowledge of performance metrics, especially within digital and emerging media.
+Skilled using data tools to design and build reports.
+Experience in setup & implementation of GA / GTM.
+Extra Credit:
+Experience in setup, implementation and maintenance of a Data Management Platform.
+Media experience and working knowledge of media tools, such as, Adwords, Doubleclick, Facebook, etc.
+Experience with the design and implementation of GA goal and conversion tracking.
+Extra Extra Credit:
+Ability to study the past, and predict the future, to act in the present.
+The Perks
+A competitive salary.
+Solid Health Bennies.
+401k and Profit Share Programs.
+A stocked Kegerator with rotating brews.
+The office - built into John Wanamakerâs old penthouse apartment, smack in the middle of the city. Like none youâve ever seen.
+Vacation policy: We all take them and love the refreshing feeling they offer and so our policy is unlimited vacay.
+A work environment that enthusiastically encourages creativity, risk-taking and growth.
+BE UNFORGETTABLE.
+That's our mission. Simple to say. Nearly impossible to pull off. But when you set the bar that high, every single jump has meaning.,An emerging IoT technology company in Philadelphia creating and molding the next generation of smart building technology is looking for a Data Engineer to join their team of innovative engineers. In this role you will be addressing real world challenges through the development of new features and integration of new devices on an ever-growing IoT platform. You will also be developing a cross-platform software products for web, tablet, and mobile use while owning small-medium size features from technical design to completion.This data engineer will be an integral part that is forging a new path in IoT technology by working with internal and external stakeholders to understand how they are using the product's data, align on useful metrics, and produce data representations an interpretable way. You will use creative analysis to find solutions across multiple databases and ensure data findings are accessible to users at all levels through dashboards, visualizations, and reports. You will also actively interact with clients & partners during pilot projects to gain user insight to utilize data to understand user experiences in the field, as they are controlling & managing devices such as locks, thermostats, lights, shades, water metering, energy metering, & leak detection.This is a great opportunity to take ownership in your work, and work cross-functionally and collaboratively to drive the company's machine learning and AI goals through data.Due to COVID-19 this role is REMOTE, however, candidates should be local to the Philadelphia area.Required Skills & Experience* Looker* Tableau* AWS - S3* AirFlow* MySQL* Reporting* Data analysis* Client facing experienceDesired Skills & Experience* ETL* Python* Snowflake* Machine Learning* Artificial Intelligence* IoT device experienceWhat You Will Be DoingTech Breakdown* 50% Client facing* 25% Data Engineering/Analysis* 25% ReportingDaily Responsibilities* 100% Hands OnThe Offer* Competitive Salary: Up to $110,000K/year, DOEYou will receive the following benefits:* Competitive salary* 401K retirement plan (matching)* Paid medical, dental, and vision plan* Life Insurance plan* SEPTA Transportation discounts* Ability to see your contributions impact lives every day* Flexible schedules and vacation/work from home policy (including maternity/paternity leave)* Sponsorship for conferences and educational events* Supportive, casual, and professional work environment for a team that focuses on creating mentors, and experts in their fieldApplicants must be currently authorized to work in the United States on a full-time basis now and in the future.We are excited to officially release our 2020 Tech Salary Guide! This resource features localized tech salaries for 12 different cities. You'll find the data to guide your job search here. Download Motion Recruitment's 2020 Salary Guide today! https://hubs.ly/H0nmhDT0,Job DescriptionAn IoT software company located right outside of Center City Philadelphia is looking for a Data Engineer. They specifically build solutions for multifamily (apartment buildings) and student housing residents to better control lighting and overall electric efficiency through mobile solutions. They have a strong software and hardware team and are looking to expand their Data Engineer team as they are moving into water monitoring systems. This is a heavy client facing role so you must have good communication skills and understand user experience. 2+ years of experience with Looker or Tableau, airflow and aws. Experience with ETL and Python would be ideal. You will be splitting time between creating reporting and doing data analysis/engineering.Required Skills & Experience* 2+ years of experience in data analysis / data engineering* Expert knowledge of Looker or Tableau* AirFlow* MySql* AWS* AWS offering - s3, ec2* ETL* Python* SnowflakeWhat You Will Be DoingTech BreakdownDaily Responsibilities* 50% client facing* 25% creating reports* 25% data analysis/engineeringThe Offer* Competitive Salary: Up to $110,000 /year, DOEYou will receive the following benefits:* Medical, Dental, Health insurance)* 401(k)* Paid Sick Time Leave* Pre-tax Commuter BenefitApplicants must be currently authorized to work in the United States on a full-time basis now and in the future.Jobspring Partners, part of the Motion Recruitment network, provides IT Staffing Solutions (Contract, Contract-to-Hire, and Direct Hire) in major North American markets. Our unique expertise in today's highest demand tech skill sets, paired with our deep networks and knowledge of our local technology markets, results in an exemplary track record with candidates and clients.,Job Description
+The Customer Engineering Operations team in San Diego is devoted to the support of our internal Engineering personnel as well as our External Customers. This position will be based in San Diego and working in the Customer Engineering Operations team supporting all data analysis activities. Candidate will be responsible for working with a number of different systems to track, report, data mine, and ascertain critical business trends and perform necessary analysis as needed for NRE and non-NRE headcount, budget, third party and IoT business activities. This individual will work via email and telephone with the Ops teams across several countries and must have good writing and verbal skills. Use of multiple business intelligence tools to track and assemble reports for end users. Creation and development of Reports/Dashboards and carrying out statistical analysis and trend analysis of data. Creation of annual billing reports per agreements as needed. Close partnership with the San Diego Ops team for the creation of Salesforce Projects as needed and to capture customer support efforts. Working with IT to troubleshoot day to day end user issues with reporting tools (Salesforce/Qlikview). Candidate will use Excel and Powerpoint skills and should be highly detail oriented.
+
+Minimum Qualifications:
+Bachelor's in Electrical Engineering or Computer Science Knowledge of ThoughtSpot and Qlikview tools Expert level knowledge in MS Office, including mastry in Excel (current versions) and MS Powerpoint Proven experience working with Big Data and able to provide customized BI solutions Experience working with data analysis, including driving needs gathering, documentation creation and reporting Salesforce Dashboards and Reporting expertise Salesforce Dashboards and Reporting expertiseSalesforce Dashboards and Reporting expertise
+
+Preferred Qualifications:
+MBA with Engineering or Computer Science Degree (MSEE, MSCS, BSEE) -Experience in creating Statement of Work for Engineering Projects -Knowledge of Salesforce
+Education:
+Strongly preferred: Bachelor's, Computer Science and/or Electrical Engineering
+Preferred: Master's, Business Administration and/or Computer Science and/or Electrical Engineering
+
+Duration: 12 months+,Quadratic, a wholly owned subsidiary of The Richards Group, provides advanced analytics, digital analytics, data solutions, and relationship marketing services to more than 100 brands across a wide range of verticals.
+
+Weâre searching for an analyst who shares our passion for data, analysis, modeling, learning, and continuous improvement. Like all team members, this person must be incredibly curious, empathetic, sincere, hardworking, and a problem-solver. Quadratic requires a healthy balance between thinking and doing, between attention to detail and
+outside-the-box thinking. Our clientsâ needs are constantly evolving, and they count on us to help them move forward.
+
+Analysts in our Data Intelligence discipline apply knowledge and passion to solve math, business, and/or technology problems for clients, helping them make better, faster decisions. Experience working across a range of data environments (from structured SQL environments to cloud-enabled data lakes) is a prerequisite for success. You will work with everything from enterprise, digital, sensor, marketing, economic, and open-end research responses in a collaborative environment. Determining which approach(es) for storing, blending, accessing, and presenting has/have the most merit is a core day-to-day responsibility.
+
+The ideal candidate will have fluency in query logic, stored procedure development, and API development. Preferable: Python, Java, other languages used for automating processes (R or other statistical language/tools), SSIS, or other ETL (e.g., Alteryx) tools.
+
+Responsibilities
+Process large data sets and develop workflow automations (Alteryx, etc.)
+Use data analytics software (SQL, SAS, R, etc.) to clean and organize large data sets to be used in analyses
+Develop metadata tables and related database structures to support design and implementation
+Develop reports and dashboards (Tableau, Power BI, Google Data Studio, etc.) and provide analytic insights to cross-discipline stakeholders
+Conduct fuzzy matching, data standardization, and data appends to structure and augment data for use in analysis
+Use web scraping to create additional data sets (e.g., via Python)
+Work with current team to develop or acquire new learning in technologies or techniques to provide added value to our clients
+Data environment and visualization requirements gathering
+Process documentation
+Acquire data from primary and secondary data sources, and maintain databases and data analysis systems
+Work with cross-discipline teams to investigate discrepancies across multiple data sources
+API development and management
+Identify, analyze, and interpret trends or patterns in complex data sets
+Perform ad hoc quantitative analysis to answer unique and challenging business questions
+Adapt and learn to help answer the question at hand in the best way possible
+Effectively present analytical methods and results to internal stakeholders and clients with varying levels of technical expertise
+Peer code review
+
+Requirements
+Undergraduate degree in statistics, economics, mathematics, computer science, engineering, or related quantitative field; masterâs degree preferred
+Two or more years of professional experience preferred
+Demonstration of strong SQL skills including development of stored procedures
+Advanced level of experience in at least one data manipulation platform (Python, Alteryx)
+Knowledge of common marketing analytics techniques such as media mix models, multivariate testing, A/B testing, segmentation, and attribution algorithms is desired
+Data visualization experience through tools such as Tableau or Power BI
+Highly organized, with the ability to manage multiple projects in a fast-paced environment
+Ability to work independently and within a team structure to discuss methodology, results, and recommendations
+Ability to present findings and recommendations in a clear and compelling way
+Ability to creatively solve problems and understand the implications of new information on current client,Match Affinity is a division of Match Group that drives the fastest growing dating apps. Every month, millions of users come to our apps, like BLK and Chispa, to find matches and make great connections.
+
+Whatâs my day-to-day?
+As a Data Analyst on our Product Analytics Team, youâll use data to understand our users -- what they need, what they do, how to retain them, and ultimately how to help them find the best dates. Then you will partner with cross-functional teams to provide long-term strategic insights for our products. You will also support business trends/forecasting and model the financial impact of new product ideas.
+
+Your responsibilities will include:
+Crunching large data sets, analyzing, and driving key insights
+Working with other cross-functional teams like Finance, CRM, Engineering and Business Intelligence
+Providing internal consulting to product management, marketing, finance, and CRM teams on A/B tests as they move initiatives from concept to market
+Providing key insights to internal customers on their specific ad-hoc needs
+Working as the product owner of all the revenue and retention strategies for the product
+Serving as the subject matter expert on applying various statistical methodologies towards distilling actionable insights
+Researching issues about customer behavior/changes by analyzing relevant metrics, trends and supporting enterprise level initiatives
+Supporting these products: Chispa, BLK, OurTime, SingleParentMeet
+The skills weâre looking for:
+The ability to analyze data and translate those findings into meaningful insights for the business
+3+ years of SQL (T-SQL preferred)
+Advanced Excel knowledge â Functions, Pivot Tables
+Exposure to applied statistics (descriptive statistics, statistical testing, design of experiments, linear modelling, time series analysis etc); Python/SPSS/SAS/R experience a plus
+Excellent problem solving skills
+Bachelorâs or Masterâs degree in Mathematics, Computer Science, Engineering / related field, Marketing, or MBA with quantitative focus
+Self-starter with good communications skills
+Experience in consumer internet preferred
+*applicants will be required to complete a SQL and Analysis skills assessment test
+
+
+Why Match Group?
+A lot of places say they change lives, but we actually do it. Weâve helped millions of people find love and happiness!
+Here are a few perks we'd love to offer you:
+
+$1,500 annual training budget
+100% employer match on 401k contributions
+Flexible work from home schedules
+Drinks and snacks are on us every single day. If you love La Croix, hit us up
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Learn more about why our employees love working at Match!,Mosaic is a full service, 360-degree integrated
+marketing agency, with notable expertise in experiential, content and retail.
+Weâre on a mission to create memorable omni-channel experiences that deepen
+peopleâs relationships with brands, and drive results for our clients.
+
+We are currently looking for a Spatial Data Analyst to
+join our innovative, growing company.
+
+The Spatial Data Analyst position
+is responsible for measuring and analyzing locations and markets around key
+performance initiatives (KPIs) and creating tools to communicate insights to
+our clients and teams. The analyst will leverage business and market relevant
+information to make data-driven decisions that allow Mosaic to achieve its
+sales and marketing objectives and quickly adapt tactics. The analyst will play
+a key role in evolving and growing the data-driven disciplines within our team
+and contribute to our shared success.
+
+Responsibilities:
+â¢ Collect, inspect, cleanse,
+transform, model and diagram of complex data sets
+â¢ Daily use of various location
+intelligence and analytical software tools
+â¢ Interpret data, formulate reports
+and make recommendations to the team
+â¢ Design specific spatial methods
+such as proximity, enrichment and mark analysis
+â¢ Remain fully informed on
+geospatial trends, researches and implement best practices with willingness to
+evolve and grow skillsets
+
+â¢ Must have a Bachelorâs in Marketing,
+statistics, computer science, geography or related quotative field
+â¢ Proficiency with Esri software
+suite, including network and business analytics
+â¢ Basic SQL and Python/R skills;
+other analytical platform or development skills a plus
+â¢ Knowledge of spatial data
+collection methods
+â¢ Strong analytical, critical
+thinking, cartographic and presentation skills
+â¢ Meet tight deadlines, prioritize
+workloads and achieve results in a fast-paced, dynamic environment
+â¢ Develop understanding of all areas
+phases of Mosaic business to find new opportunities for measurement
+â¢ Intermediate Microsoft Excel
+skills including formulas, pivot tables, and V-look-up
+
+Mosaic Sales Solutions is an Equal
+Opportunity Employer,Methods+Mastery Dallas is seeking a Data Analyst who is passionate about data-driven intelligence with an interest in data engineering. We're looking for an entrepreneurial analyst who has professional experience conducting quantitative analyses using Python and pulling data from disparate sources via APIs to create rich datasets.
+
+Our new Junior Data Analyst will work directly with members of the multi-disciplinary Methods+Mastery team to produce work for top clients in an entrepreneurial and collaborative environment that values team above all. This work will include assisting our Data Scientist in building out data pipelines, and analyzing data using Python to deliver reports, actionable insights, and strategic recommendations for our clients.
+
+Methods+Mastery offers a fast-paced environment that encourages personal and professional growth and the opportunity to have a panoramic view of Dallas-34 floors up to be exact. We work on projects ranging from regional to global in scope for some resume bolstering brands. You'll have the opportunity to contribute against the full spectrum of communication mediums and disciplines including interactive, mobile, social, advertising, branding, experiential, video, motion, presentations, environmental and print.
+
+Methods+Mastery is an entrepreneurial, collaborative environment that values talented, creative people who like to work with others to create cutting-edge programs for our clients.
+
+We believe a diverse team brings a wider range of personal and professional experiences and perspectives, and we recognize that diversity and inclusion benefit our agency, our clients, and the communities in which we work and live. To that end, we strongly encourage applications from women, people of color, members of the LGBTQ community, veterans, and individuals with disabilities.
+
+Responsibilities:
+Support the development of data science products by helping to build data pipelines using cloud computing and APIs
+Conduct quantitative analyses in Python using packages such as Pandas, Scikit-Learn, and NLTK
+Develop insights and strategies from data pulled through social analytics tools, digital analytics tools, primary & secondary market research and business analysis and competitive data; translate those insights into creative marketing strategies; transform consumer insights into reports and strategic plans.
+Work closely with planning, creative and social media team members to develop audience-centric, KPI-driven content campaigns that inspire audiences and influence beliefs and behaviors.
+Package and communicate research findings, insights and strategic recommendations - written and verbal - in a clear, concise, and compelling way.
+Stay current with the latest social measurement tools and relevant industry trends.
+Key Qualifications
+
+The ideal candidate is keenly strategic, versatile and insights-driven; someone who thrives in an energetic, fast-paced entrepreneurial environment. In addition, our new team member will have:
+Bachelor's degree in Mathematics, Statistics, Economics, Computer Science, Engineering, or a related quantitative discipline
+1+ years professional experience conducting quantitative analyses using Python
+1+ years professional experience working with multi-disciplinary teams
+1+ years experience with relational databases and data manipulation using SQL
+Skilled user of tools such as Excel, Tableau
+Preferred Qualifications
+Exposure to GCP or similar cloud computing platform (AWS, Azure, etc.)
+Experience with real-time listening for real-time engagement (ideally via social media command centers).
+Ability to quickly pattern spot and surface actionable insights; separate signal from noise.
+Excellent verbal and written communications skills. Experience writing clear and concise presentations summarizing data, insights, outcomes and implications in a straightforward and enlightening way for teams and clients.
+Experience distilling complex and high volumes of data into simple KPIs and data visualizations / dashboards / scorecards.
+Collaborative attitude, strong work ethic and ability to thrive and excel in a challenging fast-paced environment.
+A desire to work hard, play hard and deliver game-changing work.
+To be successful, the candidate must have a desire to deliver quality work for clients/brands, be a team player and demonstrate the ability to get the job done. You'll need a serious interest of trends, best practices, technology and business applications on the Internet and within Methods+Mastery.
+
+About FleishmanHillard
+
+FleishmanHillard specializes in public relations, reputation management, public affairs, brand marketing, digital strategy, social engagement and content strategy. We have been named PRWeek's Global Agency of the Year and Best Places to Work; a "Standout Agency" on Advertising Age's A-List; NAFE's "Top 50 Companies for Executive Women" for six years running; and among our firm's award-winning work we've taken home 5 Lions in the past two years at the Cannes International Festival of Creativity. We're also more motivated by what we can give than what we receive, and in our 70th year we've initiated a worldwide service commitment to support social inclusion in the communities in which we work and live. FleishmanHillard is part of Omnicom Public Relations Group, a division of Omnicom Group Inc., and has more than 85 offices in 30 countries, plus affiliates in 43 countries. Visit us at www.fleishmanhillard.com.
+
+FleishmanHillard is committed to equal employment opportunity and affirmative action. FleishmanHillard does not discriminate in any aspect of employment on the basis of race, color, religion, national origin, ancestry, gender, sexual orientation, gender identity and/or expression, age, veteran status, disability, or any other characteristic protected by federal, state, or local employment discrimination laws where FleishmanHillard does business.
+
+About Omnicom Public Relations Group
+
+Omnicom Public Relations Group is a global collective of three of the top global public relations agencies worldwide and eight specialist agencies in public affairs, marketing to women, fashion, global health strategy and corporate social responsibility. It encompasses more than 6,000 public relations professionals in more than 330 offices worldwide who provide their expertise to companies, government agencies, NGOs and nonprofits across a wide range of industries. Omnicom Public Relations Group delivers for clients through a relentless focus on talent, continuous pursuit of innovation and a culture steeped in collaboration. Omnicom Public Relations Group is part of the DAS Group of Companies, a division of Omnicom Group Inc. that includes more than 200 companies in a wide range of marketing disciplines including advertising, public relations, healthcare, customer relationship management, events, promotional marketing, branding and research.
+
+If you need assistance reviewing career opportunities or completing an application, please call 314-982-6283 or email our careers team.
+
+Please do not contact the office directly to apply - only resumes submitted through this website will be considered.,People changing the way brands connect with consumers - one experience at a time.
+
+
+Delivering experiences rooted in emotion, and inspiring people to become the voice of a brand has made Mosaic one of the fastest growing sales and marketing agencies in North America. We are a destination to tell stories, and pave new paths to connect brands with consumers through experiential, retail, & digital interactions.
+
+The Geographic Information Systems Analyst is a member of the GIS team that creates, analyzes, manages and maintains geographic, business insight for the Mosaic organization. Key to the function of this role is baseline knowledge of GIS systems, programs, and processes along with strong business analysis, planning, and communication skills.
+
+Qualifications:
+
+Bachelorâs Degree Preferred
+Create maps, reports, and analysis using GIS software for client teams
+Meet with client teams to define data needs, project requirements, output, budget, and timeline
+Collaborate with the GIS team to create solutions to business problems
+Ability to use GIS tools, models, programming and workflows to analyze spatial relationships and streamline processes
+Operate and maintain GIS software and hardware including desktops, servers, and cloud services
+Compile geographic and business data from various sources including field data, sales, demographics, road networks, and markets
+Other duties as assigned.
+3 yearsâ experience working as a GIS Analyst OR a degree in GIS Geography, Urban Planning, Statistics, Computer Science, Business, Political Science, or Economics
+1 year previous supervisory or management experience preferred
+Experience / proficient in Microsoft Office â Specifically Excel and Power Point
+Geographic Analysis â Knowledge of various spatial techniques to analyze the location and distribution of stores, people, and land areas and how they relate to each other.
+Communication, Written, Oral, and Cartographic - The ability to convey GIS/spatial information to non-GIS/technical people
+Analytical Skills - The ability to solve problems using the GIS suite of tools.
+Mathematics - Using mathematics to solve problems
+Information Gathering - Knowing how to find information and identify essential information, and validate the information
+Computer Science - Using and developing computer programs to solve problems.
+Systems Evaluation - Looking at many indicators of system performance, taking into account their accuracy.
+
+Why Mosaic?
+
+Consistently voted one of the best places to work, Mosaic North America gives you the opportunity to work with the worldâs most beloved brands that you know and use every day. Every employee is given the keys to charter new ground as they collectively live in the moment of building experiences together. We are a cast of diverse, yet like-minded individuals and we believe in taking risks, creating shared experiences not just for our clients, but for each other to guarantee weâre making the next chapter of everyoneâs story the most memorable one yet.
+
+
+DISCLAIMER:
+
+
+
+Acosta/Mosaic North America is an Equal Opportunity Employer
+
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. Mosaic reserves the right to modify all or part of any job descriptions at its discretion in order to meet and or exceed the needs of the business.
+
+We are committed to providing accommodations for persons with disabilities. If you require accommodation, we will work with you to meet your needs, to the extent required by law.,QA Automation Analyst with Big data technology
+
+Client: Blue Cross Blue Sheild.
+
+Location: Richardson, TX
+
+F2F interview: Sometimes yes
+
+Preferred to be local
+
+7 months to 2 years extendable contract
+
+Developer + QA Skill sets <b>Design Automated testing framework
+Develop Reusable process and automation frameworks
+Research emerging technologies, tools and platforms to ascertain when, how they should be used.
+Walkthrough Automation Test Plan
+Suggest automation solutions from tooling and implementation perspective
+Develop automated regression suites.
+Develop automated test scripts
+Develop automates tests using Ruby Cucumber or other tools.
+
+REQUIRED: <b>Java/Python Development, SQL Development, Ruby Cucumber or other tools.
+Hands on experience in developing modules in Pig, Unix Shell, Python/Java, Hive, Required skills: Strong SQL, teradata, ETL testing skills, Bigdata
+ALM, JIRA, QA methodologies, agile / scrum, QTest,Company Description
+
+null
+Job Description
+
+Role: Data Analyst
+
+Location: Mountain View, CA
+
+Duration: 3+ Months
+
+Responsibilities:
+Ability to analyze and translate data and research findings into risk and business opportunities/ requirements at the level of detail required to solve specific problems
+Test into and recommend 3rd party data providers to solve individual/business credit risk, device risk and other types of exposure risk (c/b, ACH return) etc.
+Deliver ideas and insights as you collaborate with partner teams that enable specialists to operate efficiently, and provide good user experiences for Intuitâs merchants.
+Develop experiments with our policies or tools to challenge the payments industry status quo as we help enable innovative businesses to flourish online.
+Ability to perform quantitative analysis that supports business trade off decisions and create policies to identify risk in payments and payroll.
+Build subject matter expertise in credit risk and 3rd party tools to solve for different types of risk in the Intuit ecosystem.
+Effectively able to collaborate with product and technology teams to identify risk solutions.
+Develop recommendations to optimize the link between the analysis performed by the Strategic Risk team and the work performed by the Risk Operations team.
+In addition, the candidate should bring a high level of enthusiasm to the projects and the ability to organize and motivate large groups. This includes taking initiative, ownership and responsibility for a project.
+Must be a smart, organized analytical thinker, with the ability to perform or direct a detailed, fully considered analysis.
+Must have good judgement with the ability to think creatively and strategically.
+Skills:
+Strong business acumen with a minimum of 5 years work experience in related field/position
+Bachelor degree in Business, Math, Statistics, Finance, Economics, or a related field. MBA or graduate degree in a related field a plus
+Working knowledge of the fundamentals of payment processing and an understanding of industry fraud and risk trends, including familiarity with scorecard development.
+Preferably has experience with payments, risk, or trust & safety
+Is curious and eager to build expertise: if something seems off, you want to figure out what is going on, and you naturally absorb and retain information down to the smallest details.
+Is decisive, yet open to learning: you will make many critical choices every day, and you will be wrong some of the time.
+Believes in knowing and using the numbers behind a problem, and preferably has familiarity with the basics of statistical analysis and experience with quantitative tools such as Excel, SQL, Python, R, Stata, or data visualization tools.
+Must be a smart, organized analytical thinker, with the ability to perform or direct a detailed, fully considered analysis.
+Passion for analyzing data and an insatiable curiosity to understand complex business issues and proactively solve interesting problems that enhance the business.
+Ambitious and results-driven mindset â¦ measures success by outcomes.
+Able to thrive in a fast-paced environment and be responsive and available during times of peak fraud activity.
+Able to present complex analysis clearly and concisely.
+Skills set requirements include analytical, financial, strategic planning, leadership, project management and execution, communication with diverse audiences and stakeholders, (written, verbal, and oral), media training a plus.
+Strong organization and time management skills and the ability to manage multiple projects and priorities.
+Ability to analyze and translate data and research findings into risk and business opportunities at the level of detail required to solve specific problems
+Must be able to translate analysis results to recommend rule creation and implementation.
+Please send the resume to tansib@infotreeglobal.com,#COVID-19Greetings to all ! Introlligent Inc. is currently looking for a Data and User Acceptance Testing Analyst to work under a very reputed technological industry client. The detailed Job description is given below for your reference.
+
+Job Description (including duties, skills, education):
+
+Complete Description :
+
+We are looking for candidates with:
+â¢ Good Analytical skills with Tableau and Excel â¢ Python experience â¢ Should have the ability to effectively communicate â¢ Project manager experience
+This is a contract opportunity in Cupertino, CA for 9 months under W2.
+
+Candidates must email the following:
+
+â¢ Your detailed resume and contact numbers.
+â¢ Availability in terms of date.
+
+Note: Only US citizens and Green Card holders are eligible to apply under W2 contract.
+
+Please visit us at www.introlligent.com for more information. For more information, please call at 916 679 4221.
+
+Job Requirements:
+
+â¢ Should have the ability to effectively communicate
+â¢ Project manager experience,Regulatory Data Analyst
+
+
+Our clientâs Environmental Technologies group is seeking temporary professional services of a Regulatory data analyst to generate an inventory of current product and regulatory compliance data and documentation by product, considering current and future key global regulatory requirements.The Regulatory data analyst will collaborate closely with regulatory and product analyst personnel at Apple to coordinate the data inventory and engage third parties as needed.
+
+Location:
+
+
+Cupertino, CA
+
+Duration:
+
+
+3 to 6 month contract (subject to extension)
+
+Description:
+
+
+This position is for a for regulatory data analyst is within our clientâs Environmental Technologies group within the Hardware Engineering division. Their mission is to deliver the worldâs leading programs on the elimination of hazardous substances, improved material and energy efficiency, as well as design for environment. Our client believes that major improvements in environmental performance will be delivered through product design
+innovations.
+
+The analyst will be supporting environmental efforts for our clientâs products by generating inventory of current product and regulatory compliance data and documentation by product, considering current and future key global regulatory requirements.The analyst will also support with data collection, verification and preliminary review of compliance documentation. In addition, the analyst will work with third party services to expand inventory as required.
+
+Education:
+
+
+BS degree in Sciences/Engineering/ Information Technology or a related field with 2+ years of relevant industry experience.
+
+Requirements:
+Experience with product lifecycle management (PLM) systems and Bills of Material (BOM)
+Proficient with managing and analyzing large datasets
+Knowledge on global regulations for chemicals preferred
+Experience in the electronics industry
+Strong organizational abilities with attention to detail
+Advanced MS Excel skills required, experience with Tableau or other reporting tools preferred
+Excellent communication and presentation skills
+Demonstrated ability to excel in a fast-paced, schedule-driven environment
+To Apply:
+
+
+Send your resume (in Microsoft Word format), to: hr@icg-sj.com along with your salary requirements.,Company Description
+
+Security
+
+Job Description
+
+Job Description:
+
+Summary: Deploy a centralized person master data management solution to holistically solve for:
+â¢ Implementation of consistent cleansing rules and data quality testing
+â¢ Standardized mapping rules and logic for contact and account data
+â¢ Single Source of Truth for consumers to source person data
+â¢ Enablement of a âperson 360â view and improved reporting accuracy
+â¢ Design and implement AI-ML for automated pattern identification and data remediation
+
+Role Name - Business Analyst
+Roles and Responsibilities
+â¢ Responsible for defining, prioritizing, and overseeing delivery of the strategic MDM capabilities required by the business functions.
+â¢ Good understanding of SDLC and Agile methodologies
+â¢ Engage with business stakeholders to understand business requirements & demonstrate ability to develop and prepare business analysis, plans, business requirement definitions, testing traceability
+â¢ Support the functional design and implementation of projects and create solutions to meet business objectives and resolve system / process issues
+â¢ Responsible for business process understanding of data consumption.
+â¢ Data Lifecycle management processes and procedures.
+â¢ Establish SOP (Standard Operating Procedures) to maintain and improve data quality and to maintain and manage data supply chains
+â¢ Extensive validation skills of the gathered data for veracity, consistency and completeness
+â¢ Hands on experience in having designed AI-ML based use cases to increase pattern identification and data driven matching rules
+
+Qualifications
+
+Requirements:
+â¢ 10+ years of industry experience in Data Management practices and methodologies
+â¢ In depth knowledge of MDM capabilities, industry trends and best practices
+â¢ Ability to understand business functionality and translate it into application requirements
+â¢ Ability to create compelling business cases with accurate effort estimations
+â¢ Ability to adapt quickly to new technologies and changing business requirements
+â¢ Excellent understanding of business complexity and project interdependencies
+â¢ SAP MDG /Oracle/ Informatica Functional Knowledge is must.
+â¢ Working experience on GDPR /CCPA is an added advantage.
+â¢ Proven ability to provide guidance and make decisions that require judgment and consideration of possible impacts.
+â¢ Exposure towards building playbooks, SOPâs, KPIâs will be an added advantage.
+â¢ Implementation experience and drive business consumption of Master Data and attributes.
+â¢ Good Understanding on Data Quality rules building and maintenance.
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.,About Pushnami
+
+Delivering more than 10 billion messages per month across browser-based push notifications, mobile app push notifications, and email, Pushnami enables brands to capture more subscribers, intelligently market to them quickly, and grow their revenue. Our clients love what weâve built so far, and we canât wait to make it even better. And since Pushnami is 100% privately held (zero outside funding or investment) and has been profitable from day one, we are accountable to only our clients and ourselves.
+
+We are looking for an ambitious, analytical individual who is not afraid of solving complex challenges to join our Data Science team as a Data Reporting Analyst. You will be responsible for automating and designing reports and alerts to monitor system performance to enhance visibility into our KPIs.
+
+Responsibilities
+Own BI reporting and automated metric monitoring across multiple teams.
+Develop frameworks for developing new BI reports and alert systems.
+Design complex ad-hoc reports according to internal requests.
+Produce detailed reporting identifying key trends and patterns and translate data into practical and useful recommendations to support strategic objectives
+Identify continuous improvement opportunities that increase efficiency and drive automation of various processes.
+Work with a variety of data sources, including databases and APIs.
+Create solutions by applying the latest automation technologies
+Work closely with internal stakeholders to identify automation needs and help develop solutions, collaborating with our software development team when needed.
+Requirements
+2+ years of reporting, automation, and scripting experience (Python 3.x is preferred)
+2+ years of experience with relational databases (PostgreSQL, MySQL)
+2+ years of experience visualizing data and creating dashboards (Grafana/Tableau/Power BI/Google Data Studio/etc.)
+Experience using a cloud hosting platform (AWS preferred)
+Bonus if you have experience with financial data
+Excellent written and verbal communication skills
+A desire and willingness to learn
+Initiative and motivation to make things happen
+Benefits
+Full Medical and Dental PPO Insurance that is 100% paid for by the company
+Maximum Matched 401k Retirement Plan
+Fun and Relaxed Office Environment
+Fully stocked kitchen, catered lunches Monday - Thursday
+Ability to set a daily work schedule that works best for you
+Pushnami was built on the principles of positivity and acceptance. We strive to build an inclusive work environment that uses our success to make a genuine impact on the community around us. No employee or applicant will face discrimination/harassment based on race, color, ancestry, national origin, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status.,Job Description
+The Details:
+
+Data drives strategy. Unique Influence's Data Science & Analytics practice helps internal and client stakeholders take a scientific approach towards optimizing critical business and marketing decisions. Our forward thinking in Data Science & Analytics is a key differentiator that has contributed to our agencies success.
+
+This position is for self-starters who believe that data should drive insights. They can change perceptions through data and will be responsible for measuring and communicating the effectiveness of media to internal and external stakeholders.
+
+What Youâll Do:
+Design & execute analytical reporting dashboards to improve the effectiveness of digital online and offline marketing programs. Recommend appropriate analytic methodologies and approaches. Be a subject matter expert for analytics and techniques, including A/B testing
+Design and enhance media planning optimization reports across channels such as Programmatic, Social, and search
+Develop visualizations in Excel and PowerPoint to illustrate campaign performance data
+Partner with internal teams to develop monthly and quarterly reports, trends, insights and recommendations
+Assist with the development of a measurement and learning plan including establishing campaign performance benchmarks, goals, and projections
+Devise Ad Hoc analyses including but not limited to: ROI analysis, Churn Analysis, Reach/Frequency Analysis, Audience Segmentation
+Must Haves:
+1+ years of experience in an analytical role
+Proficiency in data visualization software (e.g. Tableau) and querying languages like SQL
+Ability to QA and troubleshoot data
+Familiarity with media measurement and the digital marketing ecosystem
+Strong analytical skills with solid foundation in statistical techniques
+Desire to look at the bigger picture and translate data into strategy
+Powered by JazzHR
+
+5K7lPASCHl,The Details:
+
+Data drives strategy. Unique Influence's Data Science & Analytics practice helps internal and client stakeholders take a scientific approach towards optimizing critical business and marketing decisions. Our forward thinking in Data Science & Analytics is a key differentiator that has contributed to our agencies success.
+
+This position is for self-starters who believe that data should drive insights. They can change perceptions through data and will be responsible for measuring and communicating the effectiveness of media to internal and external stakeholders.
+
+What Youll Do:
+Design & execute analytical reporting dashboards to improve the effectiveness of digital online and offline marketing programs. Recommend appropriate analytic methodologies and approaches. Be a subject matter expert for analytics and techniques, including A/B testing
+Design and enhance media planning optimization reports across channels such as Programmatic, Social, and search
+Develop visualizations in Excel and PowerPoint to illustrate campaign performance data
+Partner with internal teams to develop monthly and quarterly reports, trends, insights and recommendations
+Assist with the development of a measurement and learning plan including establishing campaign performance benchmarks, goals, and projections
+Devise Ad Hoc analyses including but not limited to: ROI analysis, Churn Analysis, Reach/Frequency Analysis, Audience Segmentation
+Must Haves:
+1+ years of experience in an analytical role
+Proficiency in data visualization software (e.g. Tableau) and querying languages like SQL
+Ability to QA and troubleshoot data
+Familiarity with media measurement and the digital marketing ecosystem
+Strong analytical skills with solid foundation in statistical techniques
+Desire to look at the bigger picture and translate data into strategy
+Powered by JazzHR,Job Description
+About Pushnami
+
+Delivering more than 10 billion messages per month across browser-based push notifications, mobile app push notifications, and email, Pushnami enables brands to capture more subscribers, intelligently market to them quickly, and grow their revenue. Our clients love what weve built so far, and we cant wait to make it even better. And since Pushnami is 100% privately held (zero outside funding or investment) and has been profitable from day one, we are accountable to only our clients and ourselves.
+
+We are looking for an ambitious, analytical individual who is not afraid of solving complex challenges to join our Data Science team as a Data Reporting Analyst. You will be responsible for automating and designing reports and alerts to monitor system performance to enhance visibility into our KPIs.
+
+Responsibilities
+Own BI reporting and automated metric monitoring across multiple teams.
+Develop frameworks for developing new BI reports and alert systems.
+Design complex ad-hoc reports according to internal requests.
+Produce detailed reporting identifying key trends and patterns and translate data into practical and useful recommendations to support strategic objectives
+Identify continuous improvement opportunities that increase efficiency and drive automation of various processes.
+Work with a variety of data sources, including databases and APIs.
+Create solutions by applying the latest automation technologies
+Work closely with internal stakeholders to identify automation needs and help develop solutions, collaborating with our software development team when needed.
+Requirements
+2+ years of reporting, automation, and scripting experience (Python 3.x is preferred)
+2+ years of experience with relational databases (PostgreSQL, MySQL)
+2+ years of experience visualizing data and creating dashboards (Grafana/Tableau/Power BI/Google Data Studio/etc.)
+Experience using a cloud hosting platform (AWS preferred)
+Bonus if you have experience with financial data
+Excellent written and verbal communication skills
+A desire and willingness to learn
+Initiative and motivation to make things happen
+Benefits
+Full Medical and Dental PPO Insurance that is 100% paid for by the company
+Maximum Matched 401k Retirement Plan
+Fun and Relaxed Office Environment
+Fully stocked kitchen, catered lunches Monday - Thursday
+Ability to set a daily work schedule that works best for you
+Pushnami was built on the principles of positivity and acceptance. We strive to build an inclusive work environment that uses our success to make a genuine impact on the community around us. No employee or applicant will face discrimination/harassment based on race, color, ancestry, national origin, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status.,PLEASE READ BEFORE APPLYING:
+ONSITE WORK ONLY: This is not a remote/work-from-home position except during COVID restrictions, which is currently in place and all employees work remotely for their safety. If hired you must work onsite in our Round Rock, TX office.
+NO SPONSORSHIP: We are not offering sponsorship at this time (for those requiring government sponsorship for employment); please do not apply if you require sponsorship in order for work eligibility.
+MUST BE AUTHORIZED TO WORK IN USA: Only candidates currently authorized to work in the United States will be considered for this position; employment will not be offered or considered for candidates that have not yet received official confirmation of work authorization at time of applying.
+----------------------------------------------------------------------------------------------------------------
+
+We are a software company committed to providing innovative and comprehensive technologies allowing customers to operate more effectively and efficiently. Our solutions provide significant time savings and automate vital business processes. We have enjoyed strong and consistent growth for the past decade. As the premier industry leader in our domain, we have thousands of customers spanning across the United States.
+
+Qualified employees will be expected to:
+Advanced knowledge & experience using T-SQL data-relationships, database concepts, design & diagrams
+Support software developers with database operations including the development and the creation of stored procedures
+Learn relevant business processes and understand the data flow, criticality and dependencies
+Maintain documentation in an internal wiki
+Troubleshoot data issues
+Write, test and deploy MS SQL Queries and Stored Procedures
+Respond to requests for data from internal users in a timely fashion
+Very strong attention to detail; very particular and careful with handling of customer data, queries & changes to that data
+Understand databases and be able to troubleshoot common issues
+Knowledge of data integration, SQL programming, stored procedures and triggers
+Education/Experience:
+At least some higher education in computer science or related degree
+Familiar with Git
+Benefits:
+Ownership opportunities
+Health insurance
+Medical FSA accounts (flexible spending account)
+Limited vision program discounts
+Paid personal time, sick time, vacation, and company-recognized holidays
+Flexible schedule opportunities
+Unlimited snacks
+Incredible work environment and team (feels like family!)
+Job Type: Full-time
+
+Pay: $55,000.00 - $70,000.00 per year
+
+Schedule:
+Monday to Friday
+Language:
+English (Preferred)
+Work authorization:
+United States (Preferred)
+Application Question:
+Will you now or in the future require visa sponsorship for employment at Smartwebs?
+Work Remotely:
+Temporarily due to COVID-19,Job Description
+BTG, in partnership with a top ranked insurance company in Florida, has an immediate need for a Senior Data Analyst - Guidewire Data Hub in Jacksonville, FL or Birmingham, AL.
+
+Requirements of the Senior Data Analyst
+Expert in data mapping, modelling, lineage, governance and management
+At least 7+ years of Guidewire Insurance Suite knowledge (Policy Center, Claim Center, Billing Center)
+At least 3+ years as a Data Analyst maintaining the Data Specifications document for the Guidewire Data Hub / Info Center product at a large corporation
+Effective, clear and concise verbal and written communication skills
+Good organizational skills
+Business Intelligence experience (Business Objects, Cognos or other BI tool)
+Working knowledge of SQL (TSQL/PL SQL)
+Working knowledge of ETL
+5+ of QA testing experience
+Working knowledge of DW/EDW, Data Hubs/Data Lakes
+Education equivalent to a college degree in information technology or technical related discipline, or the equivalent in related work experience
+7+ years of Data Analyst experience.
+7+ years of Guidewire Property & Casualty Guidewire Insurance industry
+3+ Years Guidewire Data Hub / Info Center experience
+Occasional travel is required
+Preferred:
+Cognos experience
+10+ years of Data Analyst experience.
+At least 9+ years of Guidewire Insurance Suite knowledge (Policy Center, Claim Center, Billing Center)
+At least 5+ years as a Data Anayst maintaining the Data Specifications document for the Guidewire Data Hub / Info Center product at a large corporation
+Advanced QA Testing experience is a plus.
+Expert in SQL (T-SQL/PL SQL)
+Expert in ETL
+Expert in DW/EDW, Data Hubs/Data Lakes
+Agile Project experience
+Benefits of the Senior Data Analyst
+Medical/ Dental/ Vision within the first month of being hired
+Annual Bonus
+Company-matched 401k
+Tuition Assistance
+Generous PTO
+Discounts on home and auto insurance
+Responsibilities of the Senior Data Analyst
+You will be responsible for understanding business needs, assessing the impact of the change, and translating into technical specifications.
+Work with the technical project team to ensure those technical requirements are documented, understood and implemented all while supporting and communicating with the business through the implementation process.
+You will be responsible for identifying business needs, assessing the impact of the change, working with the business to align the need to the base application functionality, documenting the requirements, and walking the business through the documentation to obtain approval.
+You will work with the project team to ensure those requirements are delivered all while supporting and communicating with the business through the implementation process.
+This position will also be responsible for project development testing. The experience BSA will document data mapping, lineage, modelling, management, governance and all other data aspects of the GW Data Hub and Info Center product platform.
+May include helping with other business requirements for Operational support efforts including the understanding and documentation of business needs and helping convert into technical specifications for operational reports and downstream data needs such as EDW, GL and other financial applications
+Responsible for project development testing and data governance/management. This includes development of integrated test plans and test cases, execution of the tests, analysis and documentation of the results.
+The analyst is involved throughout the entire development lifecycle (e.g., initial concept, requirement gathering, development support, testing, and final implementation and post production support).
+Occasional travel may be required
+If you believe that your skills and experience are a match for this position, please submit your most current resume and a recruiter will be in contact. Resumes can be submitted via email to ************* or by applying online at https://jobs.btginc.com. You may also give us a call at 904-998-9414 to speak to a recruiter.,DIGITAL MARKETING ANALYST
+
+Overview
+The Digital Marketing Analyst has a passion for data analytics and is able to synthesize data and simplify findings. This position will focus on compiling data from multiple marketing technology platforms with the goal of creating campaign focused analyses for client deliverables. This person will support the whole MarTech team to ensure consistent quality output on all reporting projects. The person possesses excellent written communication skills, a creative solutions approach, and a hyper-focused internal drive toward continuous improvement to reach client goals and deliver analytical results.
+
+Specific Responsibilities
+Provide analysis of website traffic for key clients including monthly and quarterly updates, yearly summaries and ad hoc requests
+Manage the collection and synthesizing of data for clients. Data sources typically include ad trafficking programs, web analytic tools and client databases and social media platform analytics
+Understand clients business requirements and design reporting and analysis approaches tailored to their needs
+Develop data capture business requirements, including page tagging recommendations and hierarchy
+Stay current with client and industry benchmarks
+Prepare client deliverables including custom ppt deck, campaign insights, monthly reporting and some Sizmek reporting
+Media activation plan reporting and insights
+Development of digital dashboards and reports to measure key metrics and performance indicators. Provide detailed reporting analytics for all digital properties and campaigns
+Combine the digital data with offline and in-house data to develop a complete picture of the customer life cycle and how it relates to the customer journey
+Qualifications
+Strong analytical skills, must have knowledge and experience analyzing and interpreting data related to the digital realm
+3-5 years of experience working at an marketing agency firm
+Google Analytics experience Google certification strongly preferred
+Solid understanding of the fundamentals of digital advertising
+Role requires the ability to write clear and concise presentations for clients, summarizing data insights and strategy, including trends, industry benchmarks and competitive insights.
+Must be a self-starter, highly organized, and able to work well and communicate with professional staff and clients at all levels in the organization
+Advanced Excel knowledge and skill charts, pivot tables, stats and modeling, VBA and macros
+Education, Training and Network:
+Bachelors degree in Marketing, Communications, Data Analytics or related field,Company Overview:
+Founded in 2014, Giving Assistant is a fast growing, mission-driven, for-profit, Certified B Corporation. We envision a shopping economy where giving back is easy, and every purchase makes a difference no matter where you shop. Consumers will expect and demand nothing less. The winning companies will not only offer great products, they will also invest in the social and environmental missions that matter most to their customers.
+
+We believe shopping and giving go together. We know that consumers shop more when they support a cause they love. That's why we have committed our team, partnerships, and technology to transform the collective power of consumer shopping into a new sustainable source of giving.
+
+Giving Assistant empowers brands to enhance the shopping experience with personalized giving as a way to help consumers create impact, with each purchase. To date, our platform has generated over $5 million in donations to tens of thousands of U.S. nonprofits.
+
+Our Mission:
+
+To transform the collective power of consumer shopping into a new sustainable source of giving.
+
+Our Core Values:
+
+- Work Smart, Live Well
+- Do More with Less
+- Be a Team Player
+- Uphold Integrity & Transparency
+- Inspire Giving
+- Own the Experience
+
+Opportunity:
+
+Be part of a new wave of change taking place across industries. With Web 1.0, online replaced offline businesses. In Web 2.0, niche-focused players took on the e-commerce giants. Giving Assistant is part of the next wave, a socially responsible wave, we call it, âconscious disruption."
+
+Your role will be vital in uplifting our core products at Giving Assistant to better serve the needs of our three-sided marketplace. You will contribute toward growth and positively impact our consumers, nonprofits and brands. Your eye will always be on key metrics.
+
+Our business is growing rapidly and presents unique, evolving challenges. You should thrive in a fast-paced environment and find purpose in your work from having a measurable positive impact on society.
+Responsibilities:
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutionsRespond to requests for business data, reports, models or analysis.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Work with the Director of Data to help grow and refine the data department into a highly functional group of data experts.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Support the Companyâs A/B testing framework by testing model quality.
+Requirements:
+Minimum of 4 years of professional experience in business intelligence and data engineering outside of an academic environment.
+3-5 years of daily application of advanced querying capabilities in both SQL and NoSQL database systems in a professional environment.
+Solid experience creating reporting dashboards and analysing data using Looker, Amplitude, and/or Tableau
+2-3 years of experience using R or Python to manipulate data and draw insights from large data sets.
+Proven track record of working with stakeholders in a professional environment to set expectations and work collaboratively at multiple levels of the organization to get things done.
+A solid understanding of data science and machine learning principles.
+Excellent communication skills (verbal and written).
+Preferred Qualifications:
+B.S. or M.S. in Data Engineering, Computer Science, Mathematical Sciences, Statistics or related field of study
+Experience working in the e-commerce/affiliate industry
+Experience working with MySQL and MongoDB
+Experience with Agile methodologies & working with JIRA
+Compensation:
+
+Giving Assistant has a competitive compensation plan that includes:
+
+- A competitive annual salary that factors in location and experience
+- Stock options
+- Medical, Dental, and Vision Insurance
+- Unlimited Vacation
+- Paid parental leave
+- Stipend for continuing education
+
+Perks:
+
+- Have a measurable positive impact on society
+- Work with a team of passionate professionals (and a few dogs!) in a new, beautiful & environmentally friendly skyscraper
+- Pre-tax commuter, dependant care, and health FSAs
+- Employer-sponsored 401K
+- Cashback donation matching
+- Quarterly company retreats and volunteer activities
+- Audible membership
+- Option to work from home Wednesdays and Fridays
+- Weekly company social
+
+Giving Assistant believes an equitable and inclusive work environment and a diverse, empowered team are key to achieving our mission. Giving Assistant provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, gender identity or expression, veteran status, or genetics. We strongly encourage candidates from underrepresented minorities in tech to apply.
+
+*Note: we are not able to sponsor H1-B visas for this role,Data AnalystPowering Performance Marketplaces in Digital MediaQuinStreet is a pioneer in powering decentralized online marketplaces that match searchers and "research and compare" consumers with brands. We run these virtual- and private-label marketplaces in one of the nation's largest media networks.Our industry leading segmentation and AI-driven matching technologies help consumers find better solutions and brands faster. They allow brands to target and reach in-market customer prospects with pinpoint segment-by-segment accuracy, and to pay only for performance results.Our campaign-results-driven matching decision engines and optimization algorithms are built from over 20 years and billions of dollars of online media experience.We believe in:* The direct measurability of digital media.* Performance marketing. (We pioneered it.)* The advantages of technology.We bring all of this together to deliver truly great results for consumers and brands in the world's biggest channel.Covid-19 Hiring Update: As a company, we've transitioned to a work-from-home model and will continue to interview and hire during this time. This role is expected to begin as a remote position. We understand each person's circumstances may be unique and will work with you to explore possible interim options.Job CategoryWe are looking for an incredibly smart, dynamic and strategic Senior Data Analyst to develop data-driven insights that enable QuinStreet's Marketing and Media teams maximize profitability while improving customer relationships. This role will be concentrating on advancing the growth of a premium product which has already had significant success. You will use statistical methods to extract valuable insights from our data that further growth for the product and ROI for clients. This is a highly visible role within the company, which will come with direct interaction with our CTO and an opportunity to create a strong impact to the business.Responsibilities:* Data diagnostics - extracting, scrubbing and patching very large sets of data together from a variety of internal and external sources* Reporting - summarizing data and automating reports around campaign performance, which will be utilized frequently in client interactions* Forecasting - generating estimates for new and existing clients relating to site traffic, conversion and pricing* Campaign Optimization - creating hypothesis tests and regression models to continuously calibrate campaign attributes to achieve maximum client spend and ROI* Effectively communicating your insights and findings to other members of our Marketing and Media teams, as well as clientsQualifications:* Bachelor's degree in quantitative major like Statistics, Mathematics, Actuarial Sciences, Computer Science or related* 2-4 years of experience in an analytical role, applying statistical methods* Good understanding of statistical methods* Experience with techniques and tools: hands-on experience with quantitative analysis tools like R or Python, proficient in SQL, experience with spreadsheet modeling* Good communication skills: experience presenting and communicating effectively findings to colleagues and/or clients* Outstanding problem-solving skills: you're not just repeating a playbook, you're looking at every problem with fresh eyes, and digging deep for insights and solutionsQuinStreet is an equal opportunity employer. We do not discriminate based on race, color, religion, national origin, pregnancy status, sex, age, marital status, disability, sexual orientation, gender identity or any other characteristics protected by law.,A BIT ABOUT OUR DATA & ANALYTICS TEAM
+
+The Kinship Data & Analytics team is a newly formed group with global impact on the Kinship businesses. This team, a mixture of engineering, product insights, and data science associates, will partner with internal and Mars Petcare teams to build a rich understanding of pets and pet-owners and power our business and the Kinship data ecosystem. We are using an evolving, cutting edge tech stack to help us ingest, process, model and democratise data from across the segment to create robust pet-centric views of our clients. As the senior product analyst on a new team, you will have the opportunity to create foundational knowledge about our products and contribute to the future growth of our platform strategy.
+
+HOW YOU'LL CREATE A BETTER WORLD FOR PETS
+Explore data to unlock actionable insights and make recommendations as they relate to subscription behavior, profitability, and product development to build the foundations for a better understanding of pets and pet-owners
+Design compelling reporting and data visualizations to communicate meaningful metrics to different audiences within the business
+Take initiative to answer the question behind the question â we are looking for people who are always asking why
+Partner across the Kinship businesses to surface insights and influence how the organization thinks about our challenges
+Further a collaborative environment across teams and business units by operating in an agile environment
+WHO WE NEED TO CHART THE FUTURE OF PET CARE
+
+We strive to hire people who are passionate about our mission: creating a better world for pets. For all of our Kinship roles, we look for candidates who exemplify our attributes through consistent behaviors. We believe what we do is just as important as how we do it, and we aim to hire people who are:
+Optimistic. Those who's boundlessly energy and enthusiasm for what's next shines through in everything they do. We seek to work with people who are intrinsically happy, and who will drive our vision and purpose while managing the complexities of our businesses.
+Purposefully Inquisitive. Those who are courageous and use their deep business insights to cultivate innovation. We want the trailblazers in tech. Those who are entrepreneurs at heart, ask the tough questions, adapt quickly to new situations, and analyze data in new ways to push our big ideas forward.
+Open to All. Those who are inclusive leaders, committed to learning, and leveraging our differences as strengths. We hire people who are naturally collaborative and thrive in a flat and flexible organization. Those who are thoughtful communicators, and seek to foster meaningful relationships across our community of diverse partners.
+And for this role, we hope you have the following skills we require to round out our team:
+4+ years of applied experience executing analysis, communicating results, & developing metrics that matter
+Expertise in common techniques for SAAS subscription businesses, such as lifetime value modeling, churn analysis, shopping cart optimization, A/B testing, cohort analysis, etc.
+Fluent in Python and SQL; FYI we use PySpark to interrogate our data asset
+Experience with popular visualization tools (i.e. Looker, Tableau etc.)
+Experience with popular tech stacks: we use Azure and Databricks, with AWS and Redshift thrown in as needed; Excel knowledge is a reality as well
+A strong communicator â you enjoy translating complex concepts to a variety of audiences
+If you also had these experiences, you'd knock it out of the park:
+Passion for growing and strengthening a business using data driven approaches
+You are scrappy. You approach questions with a rigor, but you are also pragmatic -- the simplest solution may be the best at times.
+Experience with mobile app metrics (user acquisition, sessions, re-engagement) is a plus
+WHY JOIN US?
+
+We offer our associates a unique opportunity to have a completely customizable career within pet care. Through Kinship you will work with and learn from a community of industry executives, pet partners, entrepreneurs, and fellow associates across our startup investment companies, outside partners, and in Mars Petcare. Our nimble and flexible approach to work allows you to make an immediate impact across businesses, while learning new skills at every stage. The diversity of our work opens doors to big opportunities and unlocks enormous potential for countless career experiences in pet care. Join us in our mission to chart the future of pet care, alongside the industry's brightest minds.
+
+Kinship's offices are global, and so are our associates. We are located in NYC, San Francisco, Portland, London, Helsinki, Shanghai, and in Moscow. Many of us flex between our dog-friendly hubs and our home offices. Today, Kinship offers exceptional benefits for you, your family, and your pets, generous paid time off, exponential opportunities to build a career within pet care, and progressive reward packages. Interested? Let's take big strides, together.
+
+Mars is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. If you need assistance or an accommodation during the application process because of a disability, it is available upon request. The company is pleased to provide such assistance, and no applicant will be penalized as a result of such a request.
+
+Copyright Â® 2019,Senior Data Analyst
+
+Powering Performance Marketplaces in Digital Media
+
+QuinStreet is a pioneer in powering decentralized online marketplaces that match searchers and "research and compare" consumers with brands. We run these virtual- and private-label marketplaces in one of the nation's largest media networks.
+
+Our industry leading segmentation and AI-driven matching technologies help consumers find better solutions and brands faster. They allow brands to target and reach in-market customer prospects with pinpoint segment-by-segment accuracy, and to pay only for performance results.
+
+Our campaign-results-driven matching decision engines and optimization algorithms are built from over 20 years and billions of dollars of online media experience.
+
+We believe in:
+The direct measurability of digital media.
+Performance marketing. (We pioneered it.)
+The advantages of technology.
+We bring all of this together to deliver truly great results for consumers and brands in the world's biggest channel.
+
+Job Category:
+
+We are looking for an incredibly smart, dynamic and strategic Senior Data Analyst to develop data-driven insights that enable QuinStreet's Marketing and Media teams maximize profitability while improving customer relationships. This role will be concentrating on advancing the growth of a premium product which has already had significant success. You will use statistical methods to extract valuable insights from our data that further growth for the product and ROI for clients. This is a highly visible role within the company, which will come with direct interaction with our CTO and an opportunity to create a strong impact to the business.
+
+Responsibilities:
+Data diagnostics - extracting, scrubbing and patching very large sets of data together from a variety of internal and external sources
+Reporting - summarizing data and automating reports around campaign performance, which will be utilized frequently in client interactions
+Forecasting - generating estimates for new and existing clients relating to site traffic, conversion and pricing
+Campaign Optimization - creating hypothesis tests and regression models to continuously calibrate campaign attributes to achieve maximum client spend and ROI
+Effectively communicating your insights and findings to other members of our Marketing and Media teams, as well as clients
+Requirements:
+Bachelor's degree in quantitative major like Statistics, Mathematics, Actuarial Sciences, Computer Science or related
+3-4 years of experience in an analytical role, applying statistical methods
+Good understanding of statistical methods
+Experience with techniques and tools: hands-on experience with quantitative analysis tools like R or Python, proficient in SQL, experience with spreadsheet modeling
+Good communication skills: experience presenting and communicating effectively findings to colleagues and/or clients
+Outstanding problem-solving skills: you're not just repeating a playbook, you're looking at every problem with fresh eyes, and digging deep for insights and solutions
+QuinStreet is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, national origin, pregnancy status, sex, age, marital status, disability, sexual orientation, gender identity or any other characteristics protected by law.,Job Description
+
+If you are interested then please share your updated CV at Sachin.S@infotreeglobal.com
+
+Job Title: Data Analyst
+
+Contract Duration: 12+ Months
+
+Location: CENTENNIAL, CO 6300 S. Syracuse Way, Ste 555 Centennial CO 80111
+
+The Data Analyst work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action. The Data Analyst will leverage operational and strategic decision making thru assorted reporting tasks, data interpretation, education, and consultation/collaboration with partners across the enterprise. The candidate should be able to build analysis and tools from multiple data sources that end users can easily learn and maintain.
+
+Responsibilities:
+â¢ Data collection and manipulation from numerous sources (Oracle, SQL, Excel, etc.) with an understanding of database structure design
+â¢ Analyze data to solve a wide variety of business problems and creation of data visualizations that drive strategic vison
+â¢ Passion for contributing to a cross-functional team focused on continuously improving member experiences and clinical outcomes though data analysis and interpretation
+â¢ Ensure data quality, timeliness and accuracy
+â¢ Process thinking, independent problem solving and working collaboratively with the team
+
+Required Qualifications
+â¢ Bachelors Degree or equivalent experience
+â¢ 3+ years of technical experience in data reconciliation
+â¢ Expert level MS Excel and highly efficient in SQL
+â¢ Proficiency in compiling, analyzing, and interpreting data trends
+â¢ The ability to communicate effectively across levels and functions
+â¢ Self-starter comfortable working independently to accomplish components of a larger program
+â¢ Strong organizational and time management skills
+â¢ Demonstrated excellence in problem solving/critical thinking
+
+Best regards,
+
+Sachin Sondhiya
+
+Associate Technical Recruiter
+
+Infotree Global Solutions Inc.
+
+You seek, We Deliver.
+
++1734-335-8252 (D)
+
+(734) 256-7515 (Text Now)
+
+Sachin.S@infotreeglobal.com
+
+LinkedIn: https://www.linkedin.com/in/sachin-sondhiya-819499164/
+
+Mailing Address: 215 Ann Arbor Rd, Suite 304, Plymouth, MI 48170
+
+Qualifications
+
+null
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.,Job Description
+Company Description
+
+Infotreeâs approach to every employee and customer is based around making a positive impact. We focus on over-servicing, continuous improvement and a high-quality culture. Weâre passionate about making successful matches for our employees and customers across the globe. Infotree prides itself in our proven track record and innovative culture with 100% focus on the employees and customers
+
+Job Description
+
+You can reach me at 845-999-6217 OR venky@infotreeglobal.com.
+
+DUE TO COVID-19 CANDIDATE WILL WORK FROM HOME UNTIL OFFICES ARE RE-OPENED. CANDIDATE WILL BE REQUIRED TO BE ONSITE DAILY ONCE FACILITIES RE-OPEN.
+
+The Data Analyst work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action. The Data Analyst will leverage operational and strategic decision making thru assorted reporting tasks, data interpretation, education, and consultation/collaboration with partners across the enterprise. The candidate should be able to build analysis and tools from multiple data sources that end users can easily learn and maintain.
+
+Responsibilities:
+Data collection and manipulation from numerous sources (Oracle, SQL, Excel, etc.) with an understanding of database structure design
+Analyze data to solve a wide variety of business problems and creation of data visualizations that drive strategic vison
+Passion for contributing to a cross-functional team focused on continuously improving member experiences and clinical outcomes though data analysis and interpretation
+Ensure data quality, timeliness and accuracy
+Process thinking, independent problem solving and working collaboratively with the team
+Qualifications
+
+Required Qualifications:
+Bachelorâs Degree or equivalent experience
+3+ years of technical experience in data reconciliation
+Expert level MS Excel and highly efficient in SQL
+Proficiency in compiling, analyzing, and interpreting data trends
+The ability to communicate effectively across levels and functions
+Self-starter â comfortable working independently to accomplish components of a larger program
+Strong organizational and time management skills
+Demonstrated excellence in problem solving/critical thinking
+Additional Information
+
+Thanks & Regards,
+
+Manu Kumar
+
+Recruitment â Technical Recruiter
+
+Infotree Global Solutions
+
+Offc No. :- 734-928-2448
+
+Mob No. :- 845-999-6217
+
+venky@infotreeglobal.com
+
+www.infotreeglobal.com
