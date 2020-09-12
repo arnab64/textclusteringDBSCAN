@@ -9,7 +9,9 @@ The following functionalities are being added to this code (estimated completion
 
 Introduction
 -------------
-In this project, I performed document clustering using the DBSCAN clustering algorithm. I clustered documents based on topic similarity. The basic idea is simple, we first find the scores of each word in each document using *TFIDF* and then we compute the distance between two documents using a distance measure to find the difference between the scores of words of the documents.
+This is a project done by me in 2015 for NLP class, while I was in undergrad. It's been more than 5 years, and now I am trying to bring this project a bit upto the latest standards in NLP, while still keeping it simple as a NLP class project.
+
+2015: This project, I performed document clustering using the DBSCAN clustering algorithm. I clustered documents based on topic similarity. The basic idea is simple, we first find the scores of each word in each document using *TFIDF* and then we compute the distance between two documents using a distance measure to find the difference between the scores of words of the documents.
 
 Steps
 ---------
