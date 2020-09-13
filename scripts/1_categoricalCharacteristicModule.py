@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib as mpl
 import nltk,re,pprint
 import sys,glob,os
-import operator, string, argparse
+import operator, string, argparse, math
 
 def drawProgressBar(percent, barLen = 50):			#just a progress bar so that you dont lose patience
     sys.stdout.write("\r")
@@ -63,7 +63,7 @@ class flingCategoricalTFIDF:
         self.tfidfMatrix = []
         self.tfmatrixAllfiles = []
         self.termsforIDF = []
-        self.idfMatrix = []
+        self.idfMatrix = {}
         self.termsforIDF = []
         self.computed_tfmatrix = 0
         self.computed_idfmatrix = 0
@@ -119,21 +119,29 @@ class flingCategoricalTFIDF:
             file1 = open(file)
             readfile = file1.read()
             wordsInFile = readfile.split()
-            lenx=len(set(wordsInFile))
+            lenx=len(wordsInFile)
             totalwords+=lenx
             self.termsforIDF.extend(set(wordsInFile))
         print("Created list of terms for IDF matrix with", len(self.termsforIDF)," terms i.e. ",len(self.termsforIDF)/totalwords*100," of total words!")
         self.computed_IDFlistofterms = 1
+        
+    def getIdf(self,term):
+        countPresentDocs = 0
+        for i in range(self.nom):
+            tfx = self.getTermFreq(i,term)
+            if tfx>0:
+                countPresentDocs+=1
+        return countPresentDocs
 
     def computeIDFmatrix(self):
         if self.computed_IDFlistofterms == 0:
             self.computeIDFlistofterms()
-        lenv = len(self.termsForIDF)
+        lenv = len(self.termsforIDF)
         if self.computed_idfmatrix==0:        
             print("Computing inverse document frequencies for ",lenv,"terms!")
             for j in range(lenv):
-                el = self.termsForIDF[j]
-                idfx = getIdf(el)
+                el = self.termsforIDF[j]
+                idfx = self.getIdf(el)
                 idfy = lenv/float(1+idfx)
                 idfz = math.log(idfy,10)
                 self.idfMatrix[el] = [idfz]
@@ -142,17 +150,6 @@ class flingCategoricalTFIDF:
             self.computed_idfmatrix=1
         else:
              print("IDF matrix already computed, with", len(self.termsforIDF),"terms!")
-        
-    def getIdf(self,term):
-        countPresentDocs = 0
-        for i in range():
-            tfx = getTermFreq(i,term)
-            #print(tfx)
-            if tfx>0:
-                countPresentDocs+=1
-                #print("found one")
-        #print(countPresentDocs,"countPresentDocs")
-        return countPresentDocs
         
     def compute_tfidf(self,fileIndex,filename):
         tfidfFileMatrix = {}
