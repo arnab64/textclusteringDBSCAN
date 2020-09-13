@@ -1,0 +1,1 @@
+Kickstarter dataset: https://www.kaggle.com/kemical/kickstarter-projects
