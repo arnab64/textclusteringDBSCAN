@@ -1,26 +1,14 @@
-import fasttext
+# generate and save characteristic file from text column of csv file and a categorical variable
+
+from imp import reload
+from nltk.corpus import stopwords
+from collections import Counter
 import pandas as pd
 import numpy as np
 import matplotlib as mpl
 import nltk,re,pprint
 import sys,glob,os
-from imp import reload
-from nltk.corpus import stopwords
-from collections import Counter
-import operator
-import string
-import argparse
-
-'''dataAnalyst = pd.read_csv("../datasets/DataAnalyst.csv", encoding="latin")
-#dataAnalystSmall = dataAnalyst[['Job Description', 'Company Name', 'Industry']]
-
-dataAnalystGrouped = dataAnalystSmall.groupby(['Industry']).count()
-pd.set_option('display.max_rows', 500)
-print(dataAnalystGrouped.sort_values(by=['Job Description'], ascending=False))
-
-dataAnalystTopCat = dataAnalystSmall[dataAnalystSmall["Industry"].isin(['IT Services', 'Staffing & Outsourcing', 'Health Care Services & Hospitals', 'Consulting',
-'Computer Hardware & Software', 'Investment Banking & Asset Management', 'Enterprise Software & Network Solutions', 'Internet',
-'Banks & Credit Unions', 'Advertising & Marketing'])]'''
+import operator, string, argparse
 
 def drawProgressBar(percent, barLen = 50):			#just a progress bar so that you dont lose patience
     sys.stdout.write("\r")
@@ -66,97 +54,31 @@ class dataProcessor:
                 noword = linex3[s].lower()
                 if noword not in self.swords:
                     ofile.write(noword)
-                    ofile.write(" ") 
-
-# using the class dataProcessor                    
-rp = dataProcessor("../datasets/DataAnalyst.csv")
-rp.customProcessData()
-for index, row in rp.dataTopCatGrouped.iterrows():
-    ofname = '../processFiles/trainCatFiles/cat' + str(index)+ '_' + ''.join(row['Industry'].split()) + '.txt'    
-    print("Processing...",ofname)
-    rp.rem_stop_punct(row['Job Description'],ofname)
-    
-
-# ------------------------------------------ starting TF-IDF     
-
-
-def getTermFreq(docId,term):
-    valx = arrTermFreq[docId][arrTermFreq[docId]['word']==term]['count'].tolist()
-    if len(valx)==0:
-        return 0
-    return valx[0]
-    
-
-
-
-
-    
-#Inverse Document Frequency(IDF)
-
-import math
-
-owd = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN"
-print(owd)
-fld = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles/"
-os.chdir(fld)
-termsForIDF = []
-totalwords = 0 
-for file in glob.glob("*.txt"):
-    print("found",file)    
-    file1 = open(file)
-    readfile = file1.read()
-    wordsInFile = readfile.split()
-    lenx=len(wordsInFile)
-    totalwords+=lenx
-    termsForIDF.extend(set(wordsInFile))
-print(len(termsForIDF),totalwords)
-
-def getIdf(term):
-    countPresentDocs = 0
-    for i in range(len(arrTermFreq)):
-        tfx = getTermFreq(i,term)
-        #print(tfx)
-        if tfx>0:
-            countPresentDocs+=1
-            #print("found one")
-    #print(countPresentDocs,"countPresentDocs")
-    return countPresentDocs
-    
-    return logg1
-
-#idfMatrix = {'term':'Zara','idfx':'1'}
-idfMatrix = {}
-lenv = len(termsForIDF)
-#lenv = 100
-print("Computing inverse document frequencies")
-for j in range(lenv):
-    el = termsForIDF[j]
-    idfx = getIdf(el)
-    idfy = lenv/float(1+idfx)
-    idfz = math.log(idfy,10)
-    idfMatrix[el] = [idfz]
-    prog=(j+1)/lenv
-    drawProgressBar(prog)
-    
-#pd.DataFrame(idfMatrix)
-idfMatrixDF = pd.DataFrame.from_dict(idfMatrix, orient = 'index')
-
-
-owd = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN"
-os.chdir(owd)
-idfMatrixDF.to_csv('processFiles/idfMatrixDF.csv', header=False)
-
-#tfidf
+                    ofile.write(" ")  
 
 class flingCategoricalTFIDF:
     def __init__(self):
-        self.nof = 0
+        self.nom = 0
         self.allfiles = []
         self.tfidfMatrix = []
         self.tfmatrixAllfiles = []
         self.termsforIDF = []
-        #allfnames = self.allfiles("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles")
-
+        self.idfMatrix = []
+        self.termsforIDF = []
+        self.computed_tfmatrix = 0
+        self.computed_idfmatrix = 0
+        self.computed_IDFlistofterms = 0
+        
+    def getallfilenames(self,foldername):
+        owd = os.getcwd()
+        fld = foldername + "/"
+        os.chdir(fld)
+        fnamearr = []
+        for file in glob.glob("*.txt"):
+            fnamearr.append(file)
+        os.chdir(owd)
+        return fnamearr        
+        
     def getDocumentTF(self,fname):
         file1 = open(fname)
         readfile = file1.read()
@@ -166,35 +88,64 @@ class flingCategoricalTFIDF:
         values_sorted, words_sorted = zip(*sorted(zip(count_values, words), key=operator.itemgetter(0), reverse=True))
         countdf = pd.DataFrame({'count': values_sorted, 'word': words_sorted})
         return countdf
-
+    
     def computeTFmatrix(self):
-        owd = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN"
-        print(owd)
-        fld = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles/"
-        os.chdir(fld)
+        if self.computed_tfmatrix==0:
+            owd = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN"
+            print(owd)
+            fld = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles/"
+            os.chdir(fld)
+
+            for file in glob.glob("*.txt"):
+                self.allfiles.append("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles/" + file)   #this factor self.allfiles is not used, but just to record filename
+                doctf = self.getDocumentTF(file)
+                self.tfmatrixAllfiles.append(doctf)
+            os.chdir(owd)
+            self.computed_tfmatrix=1
+        else:
+            print("tf matrix already computed")
+        self.nom = len(self.tfmatrixAllfiles)
         
-        for file in glob.glob("*.txt"):
-            self.allfiles.append("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles/" + file)   #this factor self.allfiles is not used, but just to record filename
-            doctf = getDocumentTF(file)
-            self.tfmatrixAllfiles.append(doctf)
-        os.chdir(owd)
-        print(len(self.tfmatrixAllfiles))
+    def getTermFreq(self,docId,term):
+        valx = self.tfmatrixAllfiles[docId][self.tfmatrixAllfiles[docId]['word']==term]['count'].tolist()
+        if len(valx)==0:
+            return 0
+        return valx[0]
         
-    def computeIDFbasic(self):
+    def computeIDFlistofterms(self):
         totalwords = 0
         for file in self.allfiles:
             print("IDF processing...",file)    
             file1 = open(file)
             readfile = file1.read()
             wordsInFile = readfile.split()
-            lenx=len(wordsInFile)
+            lenx=len(set(wordsInFile))
             totalwords+=lenx
             self.termsforIDF.extend(set(wordsInFile))
-        print(len(self.termsforIDF),totalwords)
+        print("Created list of terms for IDF matrix with", len(self.termsforIDF)," terms i.e. ",len(self.termsforIDF)/totalwords*100," of total words!")
+        self.computed_IDFlistofterms = 1
 
-    def getIdf(term):
+    def computeIDFmatrix(self):
+        if self.computed_IDFlistofterms == 0:
+            self.computeIDFlistofterms()
+        lenv = len(self.termsForIDF)
+        if self.computed_idfmatrix==0:        
+            print("Computing inverse document frequencies for ",lenv,"terms!")
+            for j in range(lenv):
+                el = self.termsForIDF[j]
+                idfx = getIdf(el)
+                idfy = lenv/float(1+idfx)
+                idfz = math.log(idfy,10)
+                self.idfMatrix[el] = [idfz]
+                prog=(j+1)/lenv
+                drawProgressBar(prog)
+            self.computed_idfmatrix=1
+        else:
+             print("IDF matrix already computed, with", len(self.termsforIDF),"terms!")
+        
+    def getIdf(self,term):
         countPresentDocs = 0
-        for i in range(len(arrTermFreq)):
+        for i in range():
             tfx = getTermFreq(i,term)
             #print(tfx)
             if tfx>0:
@@ -215,44 +166,41 @@ class flingCategoricalTFIDF:
             tfidfFileMatrix[word] = tfidf_final
         return tfidfFileMatrix
         
-    def getallfilenames(self,foldername):#returns the name of all files inside the source folder. 		
-        owd = os.getcwd()
-        fld = foldername + "/"
-        os.chdir(fld)					#this is the name of the folder from which the file names are returned.
-        fnamearr = []						#empty array, the names of files are appended to this array, and returned.
-        for file in glob.glob("*.txt"):
-            fnamearr.append(file)
-        os.chdir(owd)
-        return fnamearr
-        
+    def generateCategoricalCharacteristicFiles(self):
+        print(len(ft.tfidfMatrix),"matrix files available!")
+        for matrixID in range(len(ft.tfidfMatrix)):
+            fname_orig = allfnames[matrixID]
+            newfname = fname_orig.split()[0]+'_characteristic.csv'
+            print("filename:",newfname)
+            matrixDF = pd.DataFrame.from_dict(ft.tfidfMatrix[matrixID], orient = 'index')
+            matrixDF.to_csv(newfname, header=False)
+            
     def computeTFIDFallfiles(self,flist):
-        for fin in range(len(flist)):
+        lenflist = len(flist)
+        if self.computed_tfmatrix == 0:
+            self.computeTFmatrix()
+        if self.computed_idfmatrix == 0:
+            self.computeIDFmatrix()        
+        for fin in range(lenflist):
             fname = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles/" + flist[fin]
             print("file:",fname)
             tfidfMAT = self.compute_tfidf(fin,fname)
             self.tfidfMatrix.append(tfidfMAT)
-        print("length of tfidfMatrix:",len(self.tfidfMatrix))        
+            prog=(fin+1)/lenflist
+            drawProgressBar(prog)           
+        print("tfidfMatrix created for ",len(self.tfidfMatrix),"documents!")
+        self.generateCategoricalCharacteristicFiles()
         
-    def generateCategoricalCharacteristicFiles(self):
-        print(len(ft.tfidfMatrix))
-        for matrixID in range(len(ft.tfidfMatrix)):
-        fname_orig = allfnames[matrixID]
-        newfname = fname_orig.split()[0]+'_characteristic.csv'
-        print("filename:",newfname)
-        matrixDF = pd.DataFrame.from_dict(ft.tfidfMatrix[matrixID], orient = 'index')
-        matrixDF.to_csv(newfname, header=False)
+os.chdir("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/scripts/")
 
-# save characteristic files for categories assigned 
-fwd = "/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/characteristicFiles"
-os.chdir(fwd)
-os.chdir("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN")
+# using both the classes declared above on a new dataset
+rp = dataProcessor("../datasets/DataAnalyst.csv")
+rp.customProcessData()
+for index, row in rp.dataTopCatGrouped.iterrows():
+    ofname = '../processFiles/trainCatFiles/cat' + str(index)+ '_' + ''.join(row['Industry'].split()) + '.txt'    
+    print("Processing...",ofname)
+    rp.rem_stop_punct(row['Job Description'],ofname)
 
 ft = flingCategoricalTFIDF()
 allfnames = ft.getallfilenames("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles")
 ft.computeTFIDFallfiles(allfnames)
-print(len(ft.tfidfMatrix))
-print(len(idfMatrix))
-
-
-
-    
