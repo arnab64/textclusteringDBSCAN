@@ -69,6 +69,17 @@ class flingCategoricalTFIDF:
         self.computed_idfmatrix = 0
         self.computed_IDFlistofterms = 0
         
+    def drawProgressBar(self,percent, barLen = 50):			#just a progress bar so that you dont lose patience
+        sys.stdout.write("\r")
+        progress = ""
+        for i in range(barLen):
+            if i<int(barLen * percent):
+                progress += "="
+            else:
+                progress += " "
+        sys.stdout.write("[ %s ] %.2f%%" % (progress, percent * 100))
+        sys.stdout.flush()
+        
     def getallfilenames(self,foldername):
         owd = os.getcwd()
         fld = foldername + "/"
@@ -146,7 +157,7 @@ class flingCategoricalTFIDF:
                 idfz = math.log(idfy,10)
                 self.idfMatrix[el] = [idfz]
                 prog=(j+1)/lenv
-                drawProgressBar(prog)
+                self.drawProgressBar(prog)
             self.computed_idfmatrix=1
         else:
              print("IDF matrix already computed, with", len(self.termsforIDF),"terms!")
@@ -184,20 +195,6 @@ class flingCategoricalTFIDF:
             tfidfMAT = self.compute_tfidf(fin,fname)
             self.tfidfMatrix.append(tfidfMAT)
             prog=(fin+1)/lenflist
-            drawProgressBar(prog)           
+            self.drawProgressBar(prog)           
         print("tfidfMatrix created for ",len(self.tfidfMatrix),"documents!")
         self.generateCategoricalCharacteristicFiles()
-        
-os.chdir("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/scripts/")
-
-# using both the classes declared above on a new dataset
-rp = dataProcessor("../datasets/DataAnalyst.csv")
-rp.customProcessData()
-for index, row in rp.dataTopCatGrouped.iterrows():
-    ofname = '../processFiles/trainCatFiles/cat' + str(index)+ '_' + ''.join(row['Industry'].split()) + '.txt'    
-    print("Processing...",ofname)
-    rp.rem_stop_punct(row['Job Description'],ofname)
-
-ft = flingCategoricalTFIDF()
-allfnames = ft.getallfilenames("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles")
-ft.computeTFIDFallfiles(allfnames)
