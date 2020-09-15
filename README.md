@@ -21,3 +21,8 @@ https://github.com/fastboardAI/fling.git
 Usage
 -------
 More details will be added by 09/30/2020 for proper usage of the library.
+```python
+from textclustering import utilities as ut
+from textclustering import tfidfModule as tfm
+from textclustering import categoricalCharacteristicModule as ccm
+```
