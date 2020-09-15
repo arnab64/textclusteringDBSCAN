@@ -1,6 +1,6 @@
-# Text Clustering using Density Based Spatial Clustering (DBSCAN) using TF-IDF and FastText word vectors
+# textClusteringDBSCAN : Clustering text using Density Based Spatial Clustering (DBSCAN) using TF-IDF, FastText word vectors and other combined approaches
 
-## NOTE: For original repository, please pull to the 'original' branch of this code. All further changes will be default, as a part of the change plan. 
+## NOTE: This is an improved library for clustering text. For original repository, please pull to the 'original' branch of this code. All further changes will be default, as a part of the change plan. 
 
 ### The following functionalities are being added to this code (estimated completion by 10/01/2020):
 - Add support for performing clustering on csv files. 
