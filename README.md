@@ -18,14 +18,18 @@ This is a library for performing unsupervised lingustic functionalities based on
 *fastboardAI/fling*
 https://github.com/fastboardAI/fling.git
 
+Latest Developments tracked in
+*arnab64/fling*
+https://github.com/arnab64/fling.git
+
 Usage
 -------
 Basic usage instructions. As the code is in development, it might not be stable.  More details will be added by 09/30/2020 for proper usage of the library.
+
+*Reading data*
 ```python
-# import all libraries
 from textclustering import utilities as ut
 from textclustering import tfidfModule as tfm
-from textclustering import categoricalCharacteristicModule as ccm
 ```
 For now, operations are performed in Pandas dataframes, and the file format we read is csv.
 ```python
@@ -34,7 +38,10 @@ os.chdir("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/scripts/
 
 #read the .csv data file using the dataProcessor class
 rp = tfm.dataProcessor("../datasets/DataAnalyst.csv")
+```
 
+### using the generic TF-IDF module (unsupervised)
+```python
 #create a flingTFIDF object around the pre-processed daa
 ftf = tfm.flingTFIDF(rp.dataInitialSmall,'Job Description')
 
@@ -53,4 +60,18 @@ ftf.getTFIDF()
 # compute sum of all tf-idf values and add it as a new column
 ftf.createDistanceMetadata()
 ftf.writeToFile()
+```
+
+### using the categeorical TF-IDF module (semi-supervised)
+```python
+from textclustering import categoricalCharacteristicModule as ccm
+
+rp = dataProcessor("../datasets/DataAnalyst.csv")
+
+# performing custom categorical operations on the data-frame
+rp.customProcessData()
+
+fcat = flingCategoricalTFIDF()
+allfnames = ft.getallfilenames("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles")
+ft.computeTFIDFallfiles(allfnames)
 ```
