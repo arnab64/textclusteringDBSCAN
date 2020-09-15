@@ -20,9 +20,37 @@ https://github.com/fastboardAI/fling.git
 
 Usage
 -------
-More details will be added by 09/30/2020 for proper usage of the library.
+Basic usage instructions. As the code is in development, it might not be stable.  More details will be added by 09/30/2020 for proper usage of the library.
 ```python
+# import all libraries
 from textclustering import utilities as ut
 from textclustering import tfidfModule as tfm
 from textclustering import categoricalCharacteristicModule as ccm
+```
+For now, operations are performed in Pandas dataframes, and the file format we read is csv.
+```python
+#change operating folder      
+os.chdir("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/scripts/")
+
+#read the .csv data file using the dataProcessor class
+rp = tfm.dataProcessor("../datasets/DataAnalyst.csv")
+
+#create a flingTFIDF object around the pre-processed daa
+ftf = tfm.flingTFIDF(rp.dataInitialSmall,'Job Description')
+
+# tokenization, customizable
+ftf.smartTokenizeColumn()
+
+# get Term Frequency of each document, and store add it as an object, in a new column
+ftf.getTF()
+
+# compute Inverse Document Frequencies across the entire vocabulary
+ftf.computeIDFmatrix()
+
+# get TFIDF, and store it as a new column in data, tf-idf
+ftf.getTFIDF()
+
+# compute sum of all tf-idf values and add it as a new column
+ftf.createDistanceMetadata()
+ftf.writeToFile()
 ```
