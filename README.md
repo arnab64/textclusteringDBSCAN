@@ -79,3 +79,17 @@ fcat = flingCategoricalTFIDF()
 allfnames = ft.getallfilenames("/Users/arnabborah/Documents/repositories/textclusteringDBSCAN/processFiles/trainCatFiles")
 ft.computeTFIDFallfiles(allfnames)
 ```
+
+### adding pre-trained GloVe vectors
+```python
+from textclustering import flingPretrained as pre
+
+dataProcessed = pd.read_pickle('../processFiles/data_tfidf_processed.pkl')
+fdb = pre.flingPretrained(dataProcessed)
+fdb.loadPretrainedWordVectors('glove')
+fdb.addDocumentGloveVector()
+
+# to get a sample of the distance distribution, where the first param is number of random documents 
+db.getDistanceDistribution(200,'glove')
+db.getDistanceDistribution(500,'glove')
+```
