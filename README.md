@@ -90,6 +90,14 @@ fdb.loadPretrainedWordVectors('glove')
 fdb.addDocumentGloveVector()
 
 # to get a sample of the distance distribution, where the first param is number of random documents 
-db.getDistanceDistribution(200,'glove')
-db.getDistanceDistribution(500,'glove')
+fdb.getDistanceDistribution(200,'glove')
+fdb.getDistanceDistribution(500,'glove')
+```
+
+### tfidf2vec : convert tf-idf information into vectors using pre-trained word vectors (GloVe)
+```python
+# converting tf-idf to vector using term frequencies information only
+fdb.tfidf2vec('tf-only')
+# converting tf-idf to vector using tf-idf information 
+fdb.tfidf2vec('tf-idf')
 ```

@@ -80,7 +80,9 @@ class flingPretrained:
             except:
                 nf.append(w)
                 #print(w,"not found in glove model!")
-                continue
+                continue        
+        if len(vecList)==0:
+            return([[0]*50])
         vecArray = np.stack(vecList, axis=0 )
         return vecArray
     
@@ -112,22 +114,53 @@ class flingPretrained:
         sys.stdout.flush()	
 
     #sample distance between n random documents 
-    def getDistanceDistribution(self,numx,vectorType):
-        if vectorType=='glove':
-            numHalf = int(numx/2)
-            doca,docb = [],[]
-            for i in range(numHalf):
-                doca.append(random.randint(1,1026))
-                docb.append(random.randint(1027,2053))
-            distanceSample = []
-            total = numHalf*numHalf
-            for doc_1 in range(len(doca)):
-                for doc_2 in range(len(docb)):
-                    distanceSample.append(self.getGloveDistance(doca[doc_1],docb[doc_2],'average'))
-                    cov = doc_1*numHalf + doc_2
-                    prog=(cov+1)/total
-                    self.drawProgressBar(prog)
-            pltx = plot.hist(distanceSample,bins=20)
-            return(pltx)
+    def getDistanceDistribution(self,numx):
+        numHalf = int(numx/2)
+        doca,docb = [],[]
+        for i in range(numHalf):
+            doca.append(random.randint(1,1026))
+            docb.append(random.randint(1027,2053))
+        distanceSample = []
+        total = numHalf*numHalf
+        for doc_1 in range(len(doca)):
+            for doc_2 in range(len(docb)):
+                distanceSample.append(self.getGloveDistance(doca[doc_1],docb[doc_2],'average'))
+                cov = doc_1*numHalf + doc_2
+                prog=(cov+1)/total
+                self.drawProgressBar(prog)
+        pltx = plot.hist(distanceSample,bins=20)
+        return(pltx)
+    
+    def doctfidf2vec(self,docId,mode):
+        listWords = list(self.data['tfMatrix'][int(docId)]['word'])
+        if mode == "tf-only":
+            scores = list(self.data['tfMatrix'][int(docId)]['tf'])
+        elif mode == "tf-idf":
+            scores = list(self.data['tfMatrix'][int(docId)]['tf-idf'])
+        lenW =len(listWords)
+        vecList = []
+        for w in range(lenW):
+            xword = listWords[w]
+            xscore = scores[w]
+            try:
+                vecList.append(xscore*self.wordVecModel[xword])
+            except:
+                continue
+        if len(vecList)==0:
+            return([[0]*50])
+        vecArray = np.stack(vecList, axis=0)
+        return(np.mean(vecArray,axis=0))
+    
+    def tfidf2vec(self,mode):
+        vecL = []
+        if mode == 'tf-only':
+            columnName = 'tfidf2vec-tf'
+            for indx in range(self.nDocs):
+                gvl=self.doctfidf2vec(indx,'tf-only')
+                vecL.append(gvl)
         else:
-            print("This function is not supported yet for other vectors.")
+            columnName = 'tfidf2vec-tfidf'
+            for indx in range(self.nDocs):
+                gvl=self.doctfidf2vec(indx,'tf-idf')
+                vecL.append(gvl)            
+        self.data[columnName] = vecL
