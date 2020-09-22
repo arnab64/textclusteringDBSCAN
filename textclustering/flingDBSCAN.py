@@ -1,5 +1,14 @@
-import statistics
 import matplotlib as mpl
+from imp import reload
+from nltk.corpus import stopwords
+from collections import Counter
+import pandas as pd
+import numpy as np
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+import nltk,re,pprint
+import sys,glob,os
+import operator, string, argparse, math, random, statistics
 import matplotlib.pyplot as plt
 
 class flingDBSCAN:
@@ -45,7 +54,7 @@ class flingDBSCAN:
                 cov = doc_1*numHalf + doc_2
                 prog=(cov+1)/total
                 self.drawProgressBar(prog)
-        plt.show(plot.hist(distanceSample,bins=20))
+        plt.show(plt.hist(distanceSample,bins=20))
         return statistics.mean(distanceSample)
             
     def assignLabel(self,dictDist,label):
@@ -86,7 +95,7 @@ class flingDBSCAN:
                     distance[j] = distx
         elif method == 'glove':
             for j in range(self.nDocs):
-                dv_2 = self.data['tfidf2vec-tfidf'][j]
+                dv_2 = self.data['glove-vector'][j]
                 if j!=ptIndex:
                     distx = self.getDistance(ptIndex,j,'glove')
                     distance[j] = distx
@@ -147,7 +156,7 @@ class flingDBSCAN:
     def addClusterLabel(self,label):
         vec = []
         for el in self.clusterMetadata.keys():
-            vec.append(el)
+            vec.append(self.clusterMetadata[el])
         self.data[label] = vec    
         
     def drawProgressBar(self, percent, barLen = 50):			#just a progress bar so that you dont lose patience

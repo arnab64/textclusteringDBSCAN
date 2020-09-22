@@ -25,7 +25,10 @@ class flingPretrained:
 
     def loadGloveModel(self):
         print("Loading Glove Model\n")
-        f = open('../datasets/glove.6B/glove.6B.50d.txt','r')
+        try:
+            f = open('../datasets/glove.6B/glove.6B.50d.txt','r')
+        except:
+            f = open('datasets/glove.6B/glove.6B.50d.txt','r')
         gloveModel = {}
         for line in f:
             splitLines = line.split()
