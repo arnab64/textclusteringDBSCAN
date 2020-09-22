@@ -4,6 +4,7 @@ from collections import Counter
 import pandas as pd
 import numpy as np
 import matplotlib as mpl
+import matplotlib.pyplot as plt
 import nltk,re,pprint
 import sys,glob,os
 import operator, string, argparse, math, random
@@ -114,7 +115,7 @@ class flingPretrained:
         sys.stdout.flush()	
 
     #sample distance between n random documents 
-    def getDistanceDistribution(self,numx):
+    def getDistanceDistribution(self,numx,method):
         numHalf = int(numx/2)
         doca,docb = [],[]
         for i in range(numHalf):
@@ -124,7 +125,10 @@ class flingPretrained:
         total = numHalf*numHalf
         for doc_1 in range(len(doca)):
             for doc_2 in range(len(docb)):
-                distanceSample.append(self.getGloveDistance(doca[doc_1],docb[doc_2],'average'))
+                if method == 'glove':
+                    distanceSample.append(self.getGloveDistance(doca[doc_1],docb[doc_2],'average'))
+                else:
+                    distanceSample.append(self.getGloveDistance(doca[doc_1],docb[doc_2],'average'))
                 cov = doc_1*numHalf + doc_2
                 prog=(cov+1)/total
                 self.drawProgressBar(prog)
