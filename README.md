@@ -13,21 +13,17 @@ Introduction
 -------------
 This is a library for performing unsupervised lingustic functionalities based on textual fields on your data. An API will also be released for real-time inference. This is a small part of project fling, which is an opensource linguistic library designed for easy integration to applications. 
 
-Primary functionalities:
-- Add tf-idf as a new column, for a dataset.
-- Train word vectors on full training dataset, and categorical word vectors on categorical documents. 
-- Apply DBSCAN based on (tf-idf, tf-idf with GloVe vectors enhanced, trained FastText word vectors)
+Feature exploration and visualization
+- Textual feature visualization 
 
-*fastboardAI/fling*
-https://github.com/fastboardAI/fling.git
-
-Latest Developments tracked in
-*arnab64/fling*
-https://github.com/arnab64/fling.git
+Feature engineering:
+- Add features based on transformers based models. (unsupersized)
+- Add features based on tf-idf as soft features and combine with pretrained word vector based features. (supervised)
+- Compare different features.
 
 Usage
 -------
-Basic usage instructions. As the code is in development, it might not be stable.  More details will be added by 09/30/2020 for proper usage of the library.
+Basic usage instructions. As the code is in development, it might not be stable.  More details will be added by 12/31/2020 for proper usage of the library.
 
 *Reading data*
 ```python
