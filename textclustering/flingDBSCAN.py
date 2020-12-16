@@ -31,9 +31,12 @@ class flingDBSCAN:
             if method == 'glove':
                 self.epsilon = self.getBestDistance('glove')
                 print("\nBest epsilon computed on GLOVE =",self.epsilon,"\n")
-            else:
+            elif method == 'tfidf':
                 self.epsilon = self.getBestDistance('tfidf')
                 print("\nBest epsilon computed on GLOVE-TFIDF =",self.epsilon,"\n")
+            elif method == 'transformer':
+                self.epsilon = self.getBestDistance('transformer')
+                print("\nBest epsilon computed on transformer =",self.epsilon,"\n")
             
     def getBestDistance(self,method):
         numx = 100
@@ -49,8 +52,10 @@ class flingDBSCAN:
             for doc_2 in range(len(docb)):
                 if method == 'glove':
                     distanceSample.append(self.getDistance(doc_1,doc_2,'glove'))
-                else:
+                elif method == 'tfidf':
                     distanceSample.append(self.getDistance(doc_1,doc_2,'tfidf'))
+                elif method == 'transformer':
+                    distanceSample.append(self.getDistance(doc_1,doc_2,'transformer'))
                 cov = doc_1*numHalf + doc_2
                 prog=(cov+1)/total
                 self.drawProgressBar(prog)
@@ -85,6 +90,8 @@ class flingDBSCAN:
             dv_1 = self.data['glove-vector'][int(ptIndex)] 
         elif method == 'tfidf':
             dv_1 = self.data['tfidf2vec-tfidf'][int(ptIndex)]
+        elif method == 'transformer':
+            dv_1 = self.data['transformer_vector'][int(ptIndex)]
         
         #iterating over the whole data for the second vector 
         if method == 'tfidf':
@@ -98,6 +105,12 @@ class flingDBSCAN:
                 dv_2 = self.data['glove-vector'][j]
                 if j!=ptIndex:
                     distx = self.getDistance(ptIndex,j,'glove')
+                    distance[j] = distx
+        elif method == 'transformer':
+            for j in range(self.nDocs):
+                dv_2 = self.data['transformer_vector'][j]
+                if j!=ptIndex:
+                    distx = self.getDistance(ptIndex,j,'transformer')
                     distance[j] = distx
         
         # keeping only elements at a distnce of less than epsilon
@@ -116,8 +129,11 @@ class flingDBSCAN:
             if not self.clusterMetadata[k]:
                 if self.method=='glove':
                     neighbors = self.findNeighborOf(k,'glove')
-                else:
+                elif self.method=='tfidf':
                     neighbors = self.findNeighborOf(k,'tfidf')
+                elif self.method=='transformer':
+                    neighbors = self.findNeighborOf(k,'transformer')
+
                 if neighbors:
                     self.clusterCount+=1
                     clusterName = "cluster_" + str(self.clusterCount)+"_"
@@ -129,8 +145,10 @@ class flingDBSCAN:
                             self.clusterMetadata[nbPoint] = clusterName
                     if self.method=='glove':
                         innerNeighbors = self.findNeighborOf(k,'glove')
-                    else:
+                    elif self.method=='tfidf':
                         innerNeighbors = self.findNeighborOf(k,'tfidf')
+                    elif self.method == 'transformer':
+                        innerNeighbors = self.findNeighborOf(k, 'transformer')
                     if innerNeighbors:
                         for nb in innerNeighbors:
                             self.clusterMetadata[nb] = clusterName
@@ -149,9 +167,12 @@ class flingDBSCAN:
             dv_2 = self.data['glove-vector'][int(docId_2)]
         elif method == 'tfidf':
             dv_1 = self.data['tfidf2vec-tfidf'][int(docId_1)]
-            dv_2 = self.data['tfidf2vec-tfidf'][int(docId_2)]           
-        dist = np.linalg.norm(dv_1-dv_2)
-        return dist
+            dv_2 = self.data['tfidf2vec-tfidf'][int(docId_2)]
+        elif method == 'transformer':
+            dv_1 = self.data['transformer_vector'][int(docId_1)]
+            dv_2 = self.data['transformer_vector'][int(docId_2)]
+
+        return np.linalg.norm(dv_1-dv_2)
     
     def addClusterLabel(self,label):
         vec = []
