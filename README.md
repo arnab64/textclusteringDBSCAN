@@ -1,5 +1,18 @@
 # textClusteringDBSCAN : Clustering text using Density Based Spatial Clustering (DBSCAN) using TF-IDF, FastText, GloVe word vectors
 
+<p align="left">
+    <a href="https://codecov.io/gh/arnab64/textclusteringDBSCAN">
+      <img src="https://codecov.io/gh/arnab64/textclusteringDBSCAN/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/arnab64/textclusteringDBSCAN/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/arnab64/textclusteringDBSCAN?color=0088ff" />
+    </a>
+    <a href="https://github.com/arnab64/textclusteringDBSCAN/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/arnab64/textclusteringDBSCAN?color=0088ff" />
+    </a>
+</p>
+
+
 This is a library for performing unsupervised lingustic functionalities based on textual fields on your data. An API will also be released for real-time inference. This is a small part of project fling, which is an opensource linguistic library designed for easy integration to applications. 
 
 Feature exploration and visualization
